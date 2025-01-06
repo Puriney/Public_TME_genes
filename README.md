@@ -6,3 +6,7 @@
 
 # Breast TME
 - `BreastCancerAll.Wu2021.csv`. Wu, S.Z., Al-Eryani, G., Roden, D.L. et al. A single-cell and spatially resolved atlas of human breast cancers. Nat Genet 53, 1334–1347 (2021). https://doi.org/10.1038/s41588-021-00911-1
+
+# How-to
+- Files are all directly downloaded from the original supplementary tables. 
+- `avg_log*FC` was copyied as `avg_strength` to facilitate data integration. 
