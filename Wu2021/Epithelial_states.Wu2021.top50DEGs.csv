@@ -1,0 +1,151 @@
+p_val,avg_logFC,pct.1,pct.2,p_val_adj,cluster,gene,classification tier,avg_strength,cluster0,celltype
+0,2.596610113,0.905,0.075,0,Luminal Progenitors,KRT15,subset,2.596610113,Luminal Progenitors,Epithelial
+0,2.552161021,0.846,0.074,0,Luminal Progenitors,LTF,subset,2.552161021,Luminal Progenitors,Epithelial
+0,2.314689842,0.476,0.063,0,Luminal Progenitors,PTN,subset,2.314689842,Luminal Progenitors,Epithelial
+0,2.213252287,0.621,0.031,0,Luminal Progenitors,MMP7,subset,2.213252287,Luminal Progenitors,Epithelial
+0,2.012390051,0.987,0.448,0,Luminal Progenitors,MGP,subset,2.012390051,Luminal Progenitors,Epithelial
+0,1.92679508,0.782,0.129,0,Luminal Progenitors,CXCL2,subset,1.92679508,Luminal Progenitors,Epithelial
+0,1.90739082,0.927,0.237,0,Luminal Progenitors,TACSTD2,subset,1.90739082,Luminal Progenitors,Epithelial
+2.6399999999999997e-177,1.856506769,0.203,0.039,7.839999999999999e-173,Luminal Progenitors,FDCSP,subset,1.856506769,Luminal Progenitors,Epithelial
+0,1.77426345,0.9,0.133,0,Luminal Progenitors,SLPI,subset,1.77426345,Luminal Progenitors,Epithelial
+0,1.738546804,0.859,0.073,0,Luminal Progenitors,SFRP1,subset,1.738546804,Luminal Progenitors,Epithelial
+0,1.724923575,0.948,0.247,0,Luminal Progenitors,CLDN4,subset,1.724923575,Luminal Progenitors,Epithelial
+0,1.71271147,0.727,0.05,0,Luminal Progenitors,SAA1,subset,1.71271147,Luminal Progenitors,Epithelial
+0,1.621441625,0.932,0.288,0,Luminal Progenitors,TM4SF1,subset,1.621441625,Luminal Progenitors,Epithelial
+0,1.621203129,0.841,0.048,0,Luminal Progenitors,CCL28,subset,1.621203129,Luminal Progenitors,Epithelial
+0,1.614449798,0.882,0.119,0,Luminal Progenitors,CRYAB,subset,1.614449798,Luminal Progenitors,Epithelial
+0,1.534767087,0.718,0.12,0,Luminal Progenitors,WFDC2,subset,1.534767087,Luminal Progenitors,Epithelial
+0,1.486539059,0.604,0.056,0,Luminal Progenitors,KRT23,subset,1.486539059,Luminal Progenitors,Epithelial
+0,1.438974007,0.801,0.023,0,Luminal Progenitors,GABRP,subset,1.438974007,Luminal Progenitors,Epithelial
+0,1.434400198,0.698,0.12,0,Luminal Progenitors,RCAN1,subset,1.434400198,Luminal Progenitors,Epithelial
+0,1.432331706,0.934,0.249,0,Luminal Progenitors,KRT7,subset,1.432331706,Luminal Progenitors,Epithelial
+0,1.404027682,0.864,0.119,0,Luminal Progenitors,NDRG2,subset,1.404027682,Luminal Progenitors,Epithelial
+0,1.340106535,0.598,0.01,0,Luminal Progenitors,C2orf82,subset,1.340106535,Luminal Progenitors,Epithelial
+0,1.323655399,0.49,0.047,0,Luminal Progenitors,KRT14,subset,1.323655399,Luminal Progenitors,Epithelial
+0,1.320676245,0.675,0.098,0,Luminal Progenitors,RARRES1,subset,1.320676245,Luminal Progenitors,Epithelial
+0,1.291027193,0.61,0.014,0,Luminal Progenitors,PIGR,subset,1.291027193,Luminal Progenitors,Epithelial
+0,1.249837718,0.189,0.004,0,Luminal Progenitors,PROL1,subset,1.249837718,Luminal Progenitors,Epithelial
+0,1.226975288,0.74,0.063,0,Luminal Progenitors,CX3CL1,subset,1.226975288,Luminal Progenitors,Epithelial
+0,1.205109242,0.519,0.064,0,Luminal Progenitors,CXCL3,subset,1.205109242,Luminal Progenitors,Epithelial
+0,1.193751917,0.756,0.087,0,Luminal Progenitors,TPT1-AS1,subset,1.193751917,Luminal Progenitors,Epithelial
+4.32e-267,1.178693779,0.324,0.064,1.28e-262,Luminal Progenitors,SCGB3A1,subset,1.178693779,Luminal Progenitors,Epithelial
+0,1.171668199,0.47,0.027,0,Luminal Progenitors,LCN2,subset,1.171668199,Luminal Progenitors,Epithelial
+0,1.170889278,0.814,0.237,0,Luminal Progenitors,CLU,subset,1.170889278,Luminal Progenitors,Epithelial
+0,1.14025797,0.513,0.026,0,Luminal Progenitors,SAA2,subset,1.14025797,Luminal Progenitors,Epithelial
+0,1.07407974,0.907,0.278,0,Luminal Progenitors,KRT8,subset,1.07407974,Luminal Progenitors,Epithelial
+0,1.017140978,0.81,0.196,0,Luminal Progenitors,CLDN3,subset,1.017140978,Luminal Progenitors,Epithelial
+0,0.982168599,0.493,0.039,0,Luminal Progenitors,CHI3L1,subset,0.982168599,Luminal Progenitors,Epithelial
+0,0.976046147,0.812,0.267,0,Luminal Progenitors,KRT19,subset,0.976046147,Luminal Progenitors,Epithelial
+0,0.971412465,0.43,0.019,0,Luminal Progenitors,KLK5,subset,0.971412465,Luminal Progenitors,Epithelial
+0,0.959846854,0.396,0.03,0,Luminal Progenitors,KRT6B,subset,0.959846854,Luminal Progenitors,Epithelial
+0,0.956298597,0.736,0.109,0,Luminal Progenitors,PDZK1IP1,subset,0.956298597,Luminal Progenitors,Epithelial
+0,0.936521958,0.661,0.084,0,Luminal Progenitors,KLF5,subset,0.936521958,Luminal Progenitors,Epithelial
+0,0.931347676,0.577,0.044,0,Luminal Progenitors,KRT5,subset,0.931347676,Luminal Progenitors,Epithelial
+0,0.922402318,0.892,0.368,0,Luminal Progenitors,APP,subset,0.922402318,Luminal Progenitors,Epithelial
+0,0.91826539,0.844,0.321,0,Luminal Progenitors,IMPDH2,subset,0.91826539,Luminal Progenitors,Epithelial
+0,0.911231223,0.414,0.033,0,Luminal Progenitors,KRT16,subset,0.911231223,Luminal Progenitors,Epithelial
+0,0.906935637,0.691,0.246,0,Luminal Progenitors,PHLDA2,subset,0.906935637,Luminal Progenitors,Epithelial
+0,0.899242826,0.946,0.297,0,Luminal Progenitors,KRT18,subset,0.899242826,Luminal Progenitors,Epithelial
+0,0.896024671,0.725,0.181,0,Luminal Progenitors,CDC42EP1,subset,0.896024671,Luminal Progenitors,Epithelial
+0,0.89108474,0.74,0.188,0,Luminal Progenitors,SLC25A37,subset,0.89108474,Luminal Progenitors,Epithelial
+0,0.883295461,0.799,0.382,0,Luminal Progenitors,SOD2,subset,0.883295461,Luminal Progenitors,Epithelial
+7.889999999999999e-208,2.369193486,0.365,0.065,2.35e-203,Mature Luminal,SCGB3A1,subset,2.369193486,Mature Luminal,Epithelial
+0,2.200019665,0.983,0.255,0,Mature Luminal,AZGP1,subset,2.200019665,Mature Luminal,Epithelial
+0,2.194914741,0.602,0.113,0,Mature Luminal,PIP,subset,2.194914741,Mature Luminal,Epithelial
+0,1.92677448,0.973,0.452,0,Mature Luminal,MGP,subset,1.92677448,Mature Luminal,Epithelial
+5.819999999999999e-151,1.921960524,0.462,0.148,1.7299999999999998e-146,Mature Luminal,MUCL1,subset,1.921960524,Mature Luminal,Epithelial
+0,1.872780087,0.991,0.506,0,Mature Luminal,XBP1,subset,1.872780087,Mature Luminal,Epithelial
+1.35e-223,1.717909075,0.334,0.055,4.01e-219,Mature Luminal,TFF1,subset,1.717909075,Mature Luminal,Epithelial
+0,1.673814267,0.677,0.13,0,Mature Luminal,C8orf4,subset,1.673814267,Mature Luminal,Epithelial
+0,1.673122942,0.808,0.085,0,Mature Luminal,STC2,subset,1.673122942,Mature Luminal,Epithelial
+0,1.651720954,0.7,0.223,0,Mature Luminal,AREG,subset,1.651720954,Mature Luminal,Epithelial
+0,1.629448187,0.982,0.302,0,Mature Luminal,KRT18,subset,1.629448187,Mature Luminal,Epithelial
+8.05e-199,1.577060141,0.467,0.127,2.3899999999999997e-194,Mature Luminal,TFF3,subset,1.577060141,Mature Luminal,Epithelial
+0,1.528727155,0.958,0.282,0,Mature Luminal,KRT8,subset,1.528727155,Mature Luminal,Epithelial
+0,1.527746516,0.842,0.271,0,Mature Luminal,MAFF,subset,1.527746516,Mature Luminal,Epithelial
+0,1.519386063,0.945,0.253,0,Mature Luminal,CLDN4,subset,1.519386063,Mature Luminal,Epithelial
+0,1.463247961,0.851,0.122,0,Mature Luminal,WFDC2,subset,1.463247961,Mature Luminal,Epithelial
+0,1.454274489,0.886,0.293,0,Mature Luminal,TM4SF1,subset,1.454274489,Mature Luminal,Epithelial
+0,1.418521916,0.923,0.207,0,Mature Luminal,EFHD1,subset,1.418521916,Mature Luminal,Epithelial
+4.35e-195,1.412781952,0.416,0.111,1.29e-190,Mature Luminal,SERPINA1,subset,1.412781952,Mature Luminal,Epithelial
+0,1.396039386,0.767,0.113,0,Mature Luminal,ANKRD30A,subset,1.396039386,Mature Luminal,Epithelial
+0,1.358905337,0.935,0.242,0,Mature Luminal,TACSTD2,subset,1.358905337,Mature Luminal,Epithelial
+0,1.325263884,0.681,0.089,0,Mature Luminal,PLAT,subset,1.325263884,Mature Luminal,Epithelial
+0,1.260751487,0.828,0.291,0,Mature Luminal,CEBPD,subset,1.260751487,Mature Luminal,Epithelial
+0,1.259431078,0.565,0.137,0,Mature Luminal,BAMBI,subset,1.259431078,Mature Luminal,Epithelial
+0,1.246270857,0.878,0.316,0,Mature Luminal,MAGED2,subset,1.246270857,Mature Luminal,Epithelial
+0,1.242640073,0.651,0.175,0,Mature Luminal,PDK4,subset,1.242640073,Mature Luminal,Epithelial
+0,1.23928982,0.809,0.208,0,Mature Luminal,EFNA1,subset,1.23928982,Mature Luminal,Epithelial
+1.81516600727849e-293,1.224161913,0.844,0.398,5.39703308944113e-293,Mature Luminal,IER3,subset,1.224161913,Mature Luminal,Epithelial
+0,1.205845176,0.912,0.529,0,Mature Luminal,BTG2,subset,1.205845176,Mature Luminal,Epithelial
+0,1.190292662,0.978,0.36,0,Mature Luminal,SPINT2,subset,1.190292662,Mature Luminal,Epithelial
+0,1.187832861,0.904,0.421,0,Mature Luminal,ATF3,subset,1.187832861,Mature Luminal,Epithelial
+0,1.159807551,0.906,0.234,0,Mature Luminal,ELF3,subset,1.159807551,Mature Luminal,Epithelial
+0,1.136891638,0.825,0.175,0,Mature Luminal,CRACR2B,subset,1.136891638,Mature Luminal,Epithelial
+0,1.115476211,0.775,0.156,0,Mature Luminal,SPDEF,subset,1.115476211,Mature Luminal,Epithelial
+0,1.092809267,0.752,0.114,0,Mature Luminal,KIAA1324,subset,1.092809267,Mature Luminal,Epithelial
+1.0099999999999998e-183,1.088276081,0.478,0.137,2.9899999999999997e-179,Mature Luminal,CXCL2,subset,1.088276081,Mature Luminal,Epithelial
+1.2499999999999999e-274,1.085527202,0.731,0.301,3.7199999999999997e-270,Mature Luminal,SOX4,subset,1.085527202,Mature Luminal,Epithelial
+1.6199999999999994e-247,1.084976735,0.319,0.051,4.819999999999999e-243,Mature Luminal,SERHL2,subset,1.084976735,Mature Luminal,Epithelial
+0,1.066203133,0.862,0.271,0,Mature Luminal,KRT19,subset,1.066203133,Mature Luminal,Epithelial
+0,1.062543872,0.788,0.236,0,Mature Luminal,ATP1B1,subset,1.062543872,Mature Luminal,Epithelial
+4.75e-289,1.052437804,0.621,0.184,1.41e-284,Mature Luminal,SLC40A1,subset,1.052437804,Mature Luminal,Epithelial
+0,1.049939065,0.58,0.09,0,Mature Luminal,SOCS2,subset,1.049939065,Mature Luminal,Epithelial
+0,1.0488948,0.692,0.193,0,Mature Luminal,ERRFI1,subset,1.0488948,Mature Luminal,Epithelial
+0,1.022145025,0.848,0.202,0,Mature Luminal,CLDN7,subset,1.022145025,Mature Luminal,Epithelial
+0,1.016201236,0.795,0.159,0,Mature Luminal,MLPH,subset,1.016201236,Mature Luminal,Epithelial
+0,1.015109718,0.267,0.01,0,Mature Luminal,CITED1,subset,1.015109718,Mature Luminal,Epithelial
+0,0.989214972,0.535,0.095,0,Mature Luminal,RND1,subset,0.989214972,Mature Luminal,Epithelial
+0,0.989063026,0.882,0.246,0,Mature Luminal,SLC39A6,subset,0.989063026,Mature Luminal,Epithelial
+0,0.975630328,0.203,0.003,0,Mature Luminal,TAT,subset,0.975630328,Mature Luminal,Epithelial
+8.88e-302,0.967782107,0.591,0.143,2.6399999999999998e-297,Mature Luminal,GPRC5A,subset,0.967782107,Mature Luminal,Epithelial
+0,3.932460531,0.943,0.046,0,Myoepithelial,KRT14,subset,3.932460531,Myoepithelial,Epithelial
+0,3.564221208,0.913,0.051,0,Myoepithelial,KRT17,subset,3.564221208,Myoepithelial,Epithelial
+0,2.640830878,0.863,0.094,0,Myoepithelial,MYLK,subset,2.640830878,Myoepithelial,Epithelial
+0,2.551835796,0.883,0.045,0,Myoepithelial,KRT5,subset,2.551835796,Myoepithelial,Epithelial
+0,2.534837805,0.956,0.17,0,Myoepithelial,TAGLN,subset,2.534837805,Myoepithelial,Epithelial
+0,2.418392361,0.625,0.029,0,Myoepithelial,ACTG2,subset,2.418392361,Myoepithelial,Epithelial
+0,2.363766432,0.897,0.166,0,Myoepithelial,DST,subset,2.363766432,Myoepithelial,Epithelial
+0,2.328548261,0.91,0.182,0,Myoepithelial,ACTA2,subset,2.328548261,Myoepithelial,Epithelial
+0,2.300498743,0.741,0.057,0,Myoepithelial,CXCL14,subset,2.300498743,Myoepithelial,Epithelial
+0,2.201950584,0.935,0.33,0,Myoepithelial,CSRP1,subset,2.201950584,Myoepithelial,Epithelial
+0,2.137669854,0.636,0.029,0,Myoepithelial,CNN1,subset,2.137669854,Myoepithelial,Epithelial
+0,2.095952886,0.869,0.047,0,Myoepithelial,C2orf40,subset,2.095952886,Myoepithelial,Epithelial
+0,2.08569685,0.872,0.156,0,Myoepithelial,FBXO32,subset,2.08569685,Myoepithelial,Epithelial
+0,2.080437116,0.954,0.309,0,Myoepithelial,MT1X,subset,2.080437116,Myoepithelial,Epithelial
+0,2.040944898,0.773,0.099,0,Myoepithelial,SFN,subset,2.040944898,Myoepithelial,Epithelial
+0,2.036742885,0.909,0.192,0,Myoepithelial,MT1E,subset,2.036742885,Myoepithelial,Epithelial
+0,2.033885051,0.86,0.126,0,Myoepithelial,CRYAB,subset,2.033885051,Myoepithelial,Epithelial
+0,1.993289007,0.98,0.564,0,Myoepithelial,MT2A,subset,1.993289007,Myoepithelial,Epithelial
+0,1.979910618,0.923,0.174,0,Myoepithelial,TPM2,subset,1.979910618,Myoepithelial,Epithelial
+0,1.789418622,0.923,0.409,0,Myoepithelial,EGR1,subset,1.789418622,Myoepithelial,Epithelial
+0,1.766217284,0.677,0.12,0,Myoepithelial,PDLIM3,subset,1.766217284,Myoepithelial,Epithelial
+0,1.749170291,0.81,0.221,0,Myoepithelial,CYR61,subset,1.749170291,Myoepithelial,Epithelial
+0,1.725962501,0.91,0.209,0,Myoepithelial,MYL9,subset,1.725962501,Myoepithelial,Epithelial
+0,1.635948531,0.658,0.056,0,Myoepithelial,SAA1,subset,1.635948531,Myoepithelial,Epithelial
+0,1.600717684,0.767,0.099,0,Myoepithelial,PDLIM4,subset,1.600717684,Myoepithelial,Epithelial
+0,1.593945648,0.841,0.192,0,Myoepithelial,NNMT,subset,1.593945648,Myoepithelial,Epithelial
+0,1.577091119,0.908,0.356,0,Myoepithelial,TPM1,subset,1.577091119,Myoepithelial,Epithelial
+0,1.512120572,0.457,0.008,0,Myoepithelial,CALML3,subset,1.512120572,Myoepithelial,Epithelial
+0,1.503345504,0.657,0.023,0,Myoepithelial,TNS4,subset,1.503345504,Myoepithelial,Epithelial
+0,1.478391651,0.48,0.008,0,Myoepithelial,OXTR,subset,1.478391651,Myoepithelial,Epithelial
+0,1.429134154,0.888,0.242,0,Myoepithelial,CLU,subset,1.429134154,Myoepithelial,Epithelial
+0,1.418503945,0.824,0.284,0,Myoepithelial,ACTN1,subset,1.418503945,Myoepithelial,Epithelial
+0,1.395996854,0.591,0.035,0,Myoepithelial,MYH11,subset,1.395996854,Myoepithelial,Epithelial
+0,1.380853608,0.511,0.041,0,Myoepithelial,SYNM,subset,1.380853608,Myoepithelial,Epithelial
+0,1.380359895,0.708,0.068,0,Myoepithelial,DKK3,subset,1.380359895,Myoepithelial,Epithelial
+0,1.353342179,0.745,0.182,0,Myoepithelial,PALLD,subset,1.353342179,Myoepithelial,Epithelial
+0,1.324617787,0.64,0.042,0,Myoepithelial,TRIM29,subset,1.324617787,Myoepithelial,Epithelial
+0,1.316498946,0.933,0.329,0,Myoepithelial,PERP,subset,1.316498946,Myoepithelial,Epithelial
+0,1.311468777,0.784,0.245,0,Myoepithelial,TACSTD2,subset,1.311468777,Myoepithelial,Epithelial
+0,1.296067529,0.722,0.138,0,Myoepithelial,FHL2,subset,1.296067529,Myoepithelial,Epithelial
+0,1.294094113,0.779,0.233,0,Myoepithelial,SCPEP1,subset,1.294094113,Myoepithelial,Epithelial
+3.91e-297,1.288728312,0.728,0.301,1.16e-292,Myoepithelial,MYC,subset,1.288728312,Myoepithelial,Epithelial
+0,1.286308243,0.679,0.065,0,Myoepithelial,PTN,subset,1.286308243,Myoepithelial,Epithelial
+0,1.255363356,0.624,0.083,0,Myoepithelial,SFRP1,subset,1.255363356,Myoepithelial,Epithelial
+0,1.224912525,0.956,0.784,0,Myoepithelial,FOS,subset,1.224912525,Myoepithelial,Epithelial
+0,1.222519917,0.805,0.294,0,Myoepithelial,PDLIM1,subset,1.222519917,Myoepithelial,Epithelial
+0,1.216992661,0.609,0.077,0,Myoepithelial,EFEMP1,subset,1.216992661,Myoepithelial,Epithelial
+0,1.200457115,0.853,0.438,0,Myoepithelial,CDKN1A,subset,1.200457115,Myoepithelial,Epithelial
+0,1.185560032,0.709,0.21,0,Myoepithelial,TUBB2A,subset,1.185560032,Myoepithelial,Epithelial
+0,1.157331281,0.587,0.064,0,Myoepithelial,PPP1R14A,subset,1.157331281,Myoepithelial,Epithelial

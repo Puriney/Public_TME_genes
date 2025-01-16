@@ -1,0 +1,61 @@
+p_val,avg_logFC,pct.1,pct.2,p_val_adj,cluster,gene,classification tier,avg_strength,cluster0,celltype
+0,2.550664466,0.818,0.016,0,B cells Memory,MS4A1,subset,2.550664466,B cells Memory,B
+0,2.180673173,0.757,0.052,0,B cells Memory,CD79A,subset,2.180673173,B cells Memory,B
+0,1.945782357,0.655,0.169,0,B cells Memory,CD83,subset,1.945782357,B cells Memory,B
+0,1.70584753,0.875,0.313,0,B cells Memory,CD37,subset,1.70584753,B cells Memory,B
+0,1.519001097,0.524,0.011,0,B cells Memory,BANK1,subset,1.519001097,B cells Memory,B
+0,1.459942917,0.969,0.395,0,B cells Memory,HLA-DRA,subset,1.459942917,B cells Memory,B
+0,1.448827467,0.996,0.683,0,B cells Memory,CD74,subset,1.448827467,B cells Memory,B
+0,1.354853338,0.795,0.271,0,B cells Memory,HLA-DQB1,subset,1.354853338,B cells Memory,B
+0,1.324615474,0.388,0.007,0,B cells Memory,VPREB3,subset,1.324615474,B cells Memory,B
+3.929999999999999e-194,1.320109439,0.276,0.094,1.1699999999999998e-189,B cells Memory,IGHA1,subset,1.320109439,B cells Memory,B
+0,1.294331459,0.805,0.229,0,B cells Memory,HLA-DQA1,subset,1.294331459,B cells Memory,B
+0,1.293659802,0.324,0.045,0,B cells Memory,IGHM,subset,1.293659802,B cells Memory,B
+0,1.256574989,0.434,0.061,0,B cells Memory,CD79B,subset,1.256574989,B cells Memory,B
+0,1.217282431,0.897,0.383,0,B cells Memory,HLA-DPB1,subset,1.217282431,B cells Memory,B
+0,1.191496912,0.45,0.108,0,B cells Memory,HLA-DQA2,subset,1.191496912,B cells Memory,B
+0,1.188644139,0.441,0.066,0,B cells Memory,IRF8,subset,1.188644139,B cells Memory,B
+0,1.1699198,0.907,0.385,0,B cells Memory,HLA-DPA1,subset,1.1699198,B cells Memory,B
+0,1.157423123,0.404,0.048,0,B cells Memory,ARHGAP24,subset,1.157423123,B cells Memory,B
+0,1.131516915,0.379,0.04,0,B cells Memory,ADAM28,subset,1.131516915,B cells Memory,B
+0,1.121104352,0.323,0.018,0,B cells Memory,LINC00926,subset,1.121104352,B cells Memory,B
+0,2.429186208,0.877,0.065,0,B cells Naive,CD79A,subset,2.429186208,B cells Naive,B
+0,2.318185364,0.653,0.006,0,B cells Naive,TCL1A,subset,2.318185364,B cells Naive,B
+0,2.211534639,0.808,0.031,0,B cells Naive,MS4A1,subset,2.211534639,B cells Naive,B
+0,1.898542662,0.933,0.324,0,B cells Naive,CD37,subset,1.898542662,B cells Naive,B
+0,1.536718596,1,0.69,0,B cells Naive,CD74,subset,1.536718596,B cells Naive,B
+0,1.534200245,0.464,0.023,0,B cells Naive,LINC00926,subset,1.534200245,B cells Naive,B
+2.3038281065577302e-293,1.531425836,0.877,0.28,6.84997210922811e-293,B cells Naive,HLA-DQB1,subset,1.531425836,B cells Naive,B
+0,1.504810856,0.995,0.406,0,B cells Naive,HLA-DRA,subset,1.504810856,B cells Naive,B
+1.97626258336499e-293,1.491046875,0.509,0.068,5.87602153911911e-293,B cells Naive,CD79B,subset,1.491046875,B cells Naive,B
+0,1.468413404,0.454,0.014,0,B cells Naive,VPREB3,subset,1.468413404,B cells Naive,B
+0,1.453238911,0.478,0.021,0,B cells Naive,BANK1,subset,1.453238911,B cells Naive,B
+0,1.444794341,0.427,0.006,0,B cells Naive,IGHD,subset,1.444794341,B cells Naive,B
+0,1.417034541,0.406,0.005,0,B cells Naive,FCER2,subset,1.417034541,B cells Naive,B
+0,1.40410147,0.438,0.053,0,B cells Naive,HVCN1,subset,1.40410147,B cells Naive,B
+0,1.37818,0.963,0.392,0,B cells Naive,HLA-DPB1,subset,1.37818,B cells Naive,B
+3.28e-290,1.356422167,0.427,0.047,9.759999999999999e-286,B cells Naive,ADAM28,subset,1.356422167,B cells Naive,B
+1.5699999999999999e-217,1.352546869,0.512,0.101,4.6699999999999995e-213,B cells Naive,FCMR,subset,1.352546869,B cells Naive,B
+4.39e-170,1.317121415,0.61,0.179,1.3099999999999998e-165,B cells Naive,CD83,subset,1.317121415,B cells Naive,B
+4.289999999999999e-257,1.314927404,0.875,0.375,1.2799999999999996e-252,B cells Naive,LAPTM5,subset,1.314927404,B cells Naive,B
+6.179999999999999e-209,1.302320296,0.507,0.127,1.84e-204,B cells Naive,NCF1,subset,1.302320296,B cells Naive,B
+0,5.135759764,0.614,0.075,0,Plasmablasts,IGKV3-15,subset,5.135759764,Plasmablasts,B
+0,5.063776353,0.857,0.112,0,Plasmablasts,IGHG1,subset,5.063776353,Plasmablasts,B
+0,4.981664631,0.644,0.091,0,Plasmablasts,IGKV1-5,subset,4.981664631,Plasmablasts,B
+0,4.969537716,0.66,0.108,0,Plasmablasts,IGKV3-20,subset,4.969537716,Plasmablasts,B
+0,4.96360169,0.651,0.092,0,Plasmablasts,IGKV3-11,subset,4.96360169,Plasmablasts,B
+0,4.949917303,0.614,0.07,0,Plasmablasts,IGKV1-9,subset,4.949917303,Plasmablasts,B
+0,4.922830242,0.835,0.245,0,Plasmablasts,IGKC,subset,4.922830242,Plasmablasts,B
+0,4.817424442,0.42,0.056,0,Plasmablasts,IGLV2-14,subset,4.817424442,Plasmablasts,B
+0,4.763267455,0.662,0.088,0,Plasmablasts,IGKV4-1,subset,4.763267455,Plasmablasts,B
+0,4.74180394,0.406,0.05,0,Plasmablasts,IGLV3-25,subset,4.74180394,Plasmablasts,B
+0,4.56562836,0.485,0.064,0,Plasmablasts,IGLV1-40,subset,4.56562836,Plasmablasts,B
+0,4.541731715,0.322,0.032,0,Plasmablasts,IGLV1-44,subset,4.541731715,Plasmablasts,B
+0,4.531996209,0.34,0.033,0,Plasmablasts,IGHV6-1,subset,4.531996209,Plasmablasts,B
+0,4.514516152,0.507,0.117,0,Plasmablasts,IGLC2,subset,4.514516152,Plasmablasts,B
+0,4.426398393,0.323,0.041,0,Plasmablasts,IGLV1-51,subset,4.426398393,Plasmablasts,B
+0,4.300267084,0.412,0.032,0,Plasmablasts,IGHV3-23,subset,4.300267084,Plasmablasts,B
+0,4.25515104,0.43,0.036,0,Plasmablasts,IGHV3-21,subset,4.25515104,Plasmablasts,B
+0,4.228912142,0.312,0.031,0,Plasmablasts,IGLV3-21,subset,4.228912142,Plasmablasts,B
+0,4.223455881,0.346,0.065,0,Plasmablasts,IGLC3,subset,4.223455881,Plasmablasts,B
+0,4.21844992,0.295,0.025,0,Plasmablasts,IGLV1-47,subset,4.21844992,Plasmablasts,B

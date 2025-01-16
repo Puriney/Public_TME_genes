@@ -1,0 +1,501 @@
+p_val,avg_logFC,pct.1,pct.2,p_val_adj,cluster,gene,classification tier,avg_strength,cluster0,celltype
+1.376061146774e-295,2.230643971,0.253,0.082,4.09e-305,Cancer Basal SC,S100A8,subset,2.230643971,Cancer Basal SC,Tumor
+1.7799999999999995e-232,1.975751073,0.311,0.141,5.289999999999999e-228,Cancer Basal SC,S100A9,subset,1.975751073,Cancer Basal SC,Tumor
+0,1.771700918,0.225,0.034,0,Cancer Basal SC,FDCSP,subset,1.771700918,Cancer Basal SC,Tumor
+0,1.583479831,0.309,0.052,0,Cancer Basal SC,SAA1,subset,1.583479831,Cancer Basal SC,Tumor
+9.12707392735966e-293,1.571872217,0.249,0.089,2.71375289082185e-293,Cancer Basal SC,S100P,subset,1.571872217,Cancer Basal SC,Tumor
+0,1.570565,0.509,0.092,0,Cancer Basal SC,RARRES1,subset,1.570565,Cancer Basal SC,Tumor
+0,1.468789802,0.908,0.238,0,Cancer Basal SC,MGST1,subset,1.468789802,Cancer Basal SC,Tumor
+3.9999999999999995e-208,1.404669183,0.135,0.026,1.19e-203,Cancer Basal SC,S100A7,subset,1.404669183,Cancer Basal SC,Tumor
+0,1.308942279,0.687,0.448,0,Cancer Basal SC,MGP,subset,1.308942279,Cancer Basal SC,Tumor
+0,1.219130297,0.457,0.114,0,Cancer Basal SC,CALML5,subset,1.219130297,Cancer Basal SC,Tumor
+0,1.199622167,0.826,0.237,0,Cancer Basal SC,KRT7,subset,1.199622167,Cancer Basal SC,Tumor
+0,1.196702719,0.73,0.195,0,Cancer Basal SC,EPCAM,subset,1.196702719,Cancer Basal SC,Tumor
+0,1.190621693,0.192,0.013,0,Cancer Basal SC,C6orf15,subset,1.190621693,Cancer Basal SC,Tumor
+0,1.171401487,0.293,0.032,0,Cancer Basal SC,S100A2,subset,1.171401487,Cancer Basal SC,Tumor
+0,1.149493349,0.924,0.564,0,Cancer Basal SC,CSTB,subset,1.149493349,Cancer Basal SC,Tumor
+0,1.130017465,0.238,0.044,0,Cancer Basal SC,CRABP1,subset,1.130017465,Cancer Basal SC,Tumor
+0,1.126525274,0.842,0.305,0,Cancer Basal SC,CD24,subset,1.126525274,Cancer Basal SC,Tumor
+0,1.124028395,0.836,0.406,0,Cancer Basal SC,PFDN2,subset,1.124028395,Cancer Basal SC,Tumor
+0,1.106854093,0.869,0.431,0,Cancer Basal SC,MARCKSL1,subset,1.106854093,Cancer Basal SC,Tumor
+0,1.100728039,0.688,0.476,0,Cancer Basal SC,LDHB,subset,1.100728039,Cancer Basal SC,Tumor
+2.36e-305,1.068991129,0.229,0.053,7.03e-301,Cancer Basal SC,KRT17,subset,1.068991129,Cancer Basal SC,Tumor
+0,1.060424686,0.581,0.148,0,Cancer Basal SC,TPD52L1,subset,1.060424686,Cancer Basal SC,Tumor
+0,1.055084779,0.122,0.008,0,Cancer Basal SC,SERPINB3,subset,1.055084779,Cancer Basal SC,Tumor
+0,1.033357513,0.817,0.314,0,Cancer Basal SC,PERP,subset,1.033357513,Cancer Basal SC,Tumor
+0,1.021813334,0.592,0.242,0,Cancer Basal SC,CCND1,subset,1.021813334,Cancer Basal SC,Tumor
+0,1.001443357,0.958,0.697,0,Cancer Basal SC,YBX1,subset,1.001443357,Cancer Basal SC,Tumor
+0,0.991100007,0.931,0.624,0,Cancer Basal SC,UQCRH,subset,0.991100007,Cancer Basal SC,Tumor
+0,0.970888898,0.888,0.649,0,Cancer Basal SC,RPS17,subset,0.970888898,Cancer Basal SC,Tumor
+0,0.927276361,0.471,0.119,0,Cancer Basal SC,CRYAB,subset,0.927276361,Cancer Basal SC,Tumor
+0,0.923104567,0.28,0.03,0,Cancer Basal SC,KRT16,subset,0.923104567,Cancer Basal SC,Tumor
+0,0.898529994,0.599,0.244,0,Cancer Basal SC,S100A16,subset,0.898529994,Cancer Basal SC,Tumor
+0,0.897008547,0.734,0.291,0,Cancer Basal SC,MDK,subset,0.897008547,Cancer Basal SC,Tumor
+0,0.890773732,0.731,0.282,0,Cancer Basal SC,HMGA1,subset,0.890773732,Cancer Basal SC,Tumor
+0,0.863312284,0.474,0.134,0,Cancer Basal SC,SLPI,subset,0.863312284,Cancer Basal SC,Tumor
+0,0.859772638,0.604,0.226,0,Cancer Basal SC,ATP1B1,subset,0.859772638,Cancer Basal SC,Tumor
+0,0.851011503,0.612,0.168,0,Cancer Basal SC,PFN2,subset,0.851011503,Cancer Basal SC,Tumor
+0,0.843524696,0.825,0.431,0,Cancer Basal SC,KDELR2,subset,0.843524696,Cancer Basal SC,Tumor
+0,0.843450997,0.287,0.028,0,Cancer Basal SC,UCHL1,subset,0.843450997,Cancer Basal SC,Tumor
+0,0.841625333,0.951,0.681,0,Cancer Basal SC,TPI1,subset,0.841625333,Cancer Basal SC,Tumor
+0,0.840496994,0.746,0.404,0,Cancer Basal SC,TMEM123,subset,0.840496994,Cancer Basal SC,Tumor
+0,0.820150323,0.663,0.232,0,Cancer Basal SC,TACSTD2,subset,0.820150323,Cancer Basal SC,Tumor
+0,0.819236463,0.235,0.027,0,Cancer Basal SC,SAA2,subset,0.819236463,Cancer Basal SC,Tumor
+0,0.805793352,0.837,0.635,0,Cancer Basal SC,RPS20,subset,0.805793352,Cancer Basal SC,Tumor
+0,0.788328914,0.983,0.864,0,Cancer Basal SC,RPS2,subset,0.788328914,Cancer Basal SC,Tumor
+0,0.787229151,0.458,0.173,0,Cancer Basal SC,NSMCE4A,subset,0.787229151,Cancer Basal SC,Tumor
+0,0.774237736,0.585,0.156,0,Cancer Basal SC,S100A14,subset,0.774237736,Cancer Basal SC,Tumor
+0,0.773821813,0.819,0.464,0,Cancer Basal SC,ATP5C1,subset,0.773821813,Cancer Basal SC,Tumor
+0,0.762355914,0.841,0.513,0,Cancer Basal SC,P4HB,subset,0.762355914,Cancer Basal SC,Tumor
+0,0.756616248,0.875,0.578,0,Cancer Basal SC,ANXA2,subset,0.756616248,Cancer Basal SC,Tumor
+0,0.748308566,0.888,0.577,0,Cancer Basal SC,GSTP1,subset,0.748308566,Cancer Basal SC,Tumor
+0,0.737933706,0.47,0.111,0,Cancer Basal SC,DSC2,subset,0.737933706,Cancer Basal SC,Tumor
+0,0.734578514,0.368,0.079,0,Cancer Basal SC,KRT15,subset,0.734578514,Cancer Basal SC,Tumor
+0,0.731651253,0.855,0.441,0,Cancer Basal SC,MDH2,subset,0.731651253,Cancer Basal SC,Tumor
+0,0.729917389,0.758,0.428,0,Cancer Basal SC,PHB2,subset,0.729917389,Cancer Basal SC,Tumor
+0,0.725853663,0.97,0.835,0,Cancer Basal SC,RPL13A,subset,0.725853663,Cancer Basal SC,Tumor
+0,0.723286228,0.316,0.025,0,Cancer Basal SC,KRT6B,subset,0.723286228,Cancer Basal SC,Tumor
+0,0.714779204,0.873,0.531,0,Cancer Basal SC,ENO1,subset,0.714779204,Cancer Basal SC,Tumor
+5.14e-116,0.713630131,0.306,0.163,1.53e-111,Cancer Basal SC,ZG16B,subset,0.713630131,Cancer Basal SC,Tumor
+0,0.712026386,0.966,0.838,0,Cancer Basal SC,RPL4,subset,0.712026386,Cancer Basal SC,Tumor
+0,0.698890269,0.209,0.019,0,Cancer Basal SC,KLK6,subset,0.698890269,Cancer Basal SC,Tumor
+0,0.697133585,0.705,0.259,0,Cancer Basal SC,KRT19,subset,0.697133585,Cancer Basal SC,Tumor
+0,0.696763458,0.772,0.383,0,Cancer Basal SC,STRAP,subset,0.696763458,Cancer Basal SC,Tumor
+0,0.694174194,0.673,0.261,0,Cancer Basal SC,HDAC2,subset,0.694174194,Cancer Basal SC,Tumor
+1.18e-168,0.686239745,0.285,0.125,3.489999999999999e-164,Cancer Basal SC,WFDC2,subset,0.686239745,Cancer Basal SC,Tumor
+0,0.682456615,0.831,0.43,0,Cancer Basal SC,PPA1,subset,0.682456615,Cancer Basal SC,Tumor
+0,0.679194885,0.949,0.834,0,Cancer Basal SC,RPL7,subset,0.679194885,Cancer Basal SC,Tumor
+0,0.677138099,0.421,0.074,0,Cancer Basal SC,SFRP1,subset,0.677138099,Cancer Basal SC,Tumor
+0,0.674110388,0.34,0.09,0,Cancer Basal SC,CDKN2A,subset,0.674110388,Cancer Basal SC,Tumor
+0,0.671777052,0.767,0.42,0,Cancer Basal SC,MLF2,subset,0.671777052,Cancer Basal SC,Tumor
+0,0.670980377,0.772,0.35,0,Cancer Basal SC,SPINT2,subset,0.670980377,Cancer Basal SC,Tumor
+0,0.667154061,0.834,0.496,0,Cancer Basal SC,PRDX6,subset,0.667154061,Cancer Basal SC,Tumor
+0,0.656739101,0.204,0.018,0,Cancer Basal SC,LY6D,subset,0.656739101,Cancer Basal SC,Tumor
+0,0.655327228,0.807,0.388,0,Cancer Basal SC,SNRPE,subset,0.655327228,Cancer Basal SC,Tumor
+1.4099999999999997e-304,0.652415823,0.109,0.008,4.1899999999999995e-300,Cancer Basal SC,KRT6A,subset,0.652415823,Cancer Basal SC,Tumor
+0,0.644638924,0.956,0.76,0,Cancer Basal SC,S100A11,subset,0.644638924,Cancer Basal SC,Tumor
+0,0.634064525,0.686,0.306,0,Cancer Basal SC,FKBP4,subset,0.634064525,Cancer Basal SC,Tumor
+0,0.633260411,0.964,0.801,0,Cancer Basal SC,PABPC1,subset,0.633260411,Cancer Basal SC,Tumor
+0,0.632247334,0.796,0.419,0,Cancer Basal SC,MRPL51,subset,0.632247334,Cancer Basal SC,Tumor
+0,0.62832422,0.651,0.296,0,Cancer Basal SC,SPTSSA,subset,0.62832422,Cancer Basal SC,Tumor
+0,0.627594325,0.807,0.422,0,Cancer Basal SC,CCT3,subset,0.627594325,Cancer Basal SC,Tumor
+0,0.624351937,0.804,0.487,0,Cancer Basal SC,PDIA6,subset,0.624351937,Cancer Basal SC,Tumor
+7.36393481616524e-293,0.619970323,0.189,0.038,2.18951873889041e-293,Cancer Basal SC,TNFRSF11B,subset,0.619970323,Cancer Basal SC,Tumor
+0,0.618131838,0.936,0.693,0,Cancer Basal SC,NDUFA4,subset,0.618131838,Cancer Basal SC,Tumor
+0,0.616747649,0.287,0.034,0,Cancer Basal SC,CXCL17,subset,0.616747649,Cancer Basal SC,Tumor
+0,0.616442405,0.715,0.355,0,Cancer Basal SC,TKT,subset,0.616442405,Cancer Basal SC,Tumor
+0,0.611929191,0.702,0.307,0,Cancer Basal SC,NME4,subset,0.611929191,Cancer Basal SC,Tumor
+0,0.610545515,0.833,0.531,0,Cancer Basal SC,TOMM20,subset,0.610545515,Cancer Basal SC,Tumor
+0,0.606942794,0.377,0.117,0,Cancer Basal SC,CKB,subset,0.606942794,Cancer Basal SC,Tumor
+0,0.60527093,0.449,0.106,0,Cancer Basal SC,PDZK1IP1,subset,0.60527093,Cancer Basal SC,Tumor
+0,0.604835993,0.652,0.282,0,Cancer Basal SC,NGFRAP1,subset,0.604835993,Cancer Basal SC,Tumor
+0,0.603136244,0.763,0.43,0,Cancer Basal SC,GDI2,subset,0.603136244,Cancer Basal SC,Tumor
+0,0.602074536,0.756,0.35,0,Cancer Basal SC,HDLBP,subset,0.602074536,Cancer Basal SC,Tumor
+0,0.592830263,0.64,0.306,0,Cancer Basal SC,STMN1,subset,0.592830263,Cancer Basal SC,Tumor
+0,0.590675013,0.645,0.28,0,Cancer Basal SC,CALU,subset,0.590675013,Cancer Basal SC,Tumor
+0,0.586959381,0.975,0.872,0,Cancer Basal SC,RPL37A,subset,0.586959381,Cancer Basal SC,Tumor
+0,0.58655431,0.864,0.549,0,Cancer Basal SC,TUBB,subset,0.58655431,Cancer Basal SC,Tumor
+0,0.584454947,0.823,0.267,0,Cancer Basal SC,KRT8,subset,0.584454947,Cancer Basal SC,Tumor
+0,0.584205481,0.574,0.159,0,Cancer Basal SC,TRIP6,subset,0.584205481,Cancer Basal SC,Tumor
+8.81e-294,0.583876941,0.296,0.092,2.62e-289,Cancer Basal SC,CENPW,subset,0.583876941,Cancer Basal SC,Tumor
+0,0.580283315,0.675,0.257,0,Cancer Basal SC,EIF4EBP1,subset,0.580283315,Cancer Basal SC,Tumor
+0,2.157957023,0.86,0.298,0,Cancer Cycling,CD24,subset,2.157957023,Cancer Cycling,Tumor
+0,2.117607615,0.332,0.075,0,Cancer Cycling,S100A8,subset,2.117607615,Cancer Cycling,Tumor
+0,1.867479941,0.42,0.133,0,Cancer Cycling,S100A9,subset,1.867479941,Cancer Cycling,Tumor
+0,1.51696145,0.396,0.138,0,Cancer Cycling,MUCL1,subset,1.51696145,Cancer Cycling,Tumor
+0,1.424501671,0.888,0.288,0,Cancer Cycling,STMN1,subset,1.424501671,Cancer Cycling,Tumor
+0,1.401504587,0.257,0.031,0,Cancer Cycling,S100A2,subset,1.401504587,Cancer Cycling,Tumor
+0,1.32549934,0.588,0.028,0,Cancer Cycling,UBE2C,subset,1.32549934,Cancer Cycling,Tumor
+0,1.311589521,0.15,0.024,0,Cancer Cycling,S100A7,subset,1.311589521,Cancer Cycling,Tumor
+0,1.267257339,0.885,0.232,0,Cancer Cycling,MGST1,subset,1.267257339,Cancer Cycling,Tumor
+0,1.230892299,0.725,0.348,0,Cancer Cycling,HIST1H4C,subset,1.230892299,Cancer Cycling,Tumor
+0,1.173065369,0.807,0.232,0,Cancer Cycling,KRT7,subset,1.173065369,Cancer Cycling,Tumor
+0,1.170925292,0.927,0.542,0,Cancer Cycling,TUBB,subset,1.170925292,Cancer Cycling,Tumor
+0,1.163232285,0.664,0.057,0,Cancer Cycling,TK1,subset,1.163232285,Cancer Cycling,Tumor
+0,1.15821668,0.767,0.187,0,Cancer Cycling,EPCAM,subset,1.15821668,Cancer Cycling,Tumor
+0,1.153001034,0.147,0.014,0,Cancer Cycling,C6orf15,subset,1.153001034,Cancer Cycling,Tumor
+0,1.141143306,0.32,0.098,0,Cancer Cycling,RARRES1,subset,1.141143306,Cancer Cycling,Tumor
+0,1.132722933,0.787,0.274,0,Cancer Cycling,HMGA1,subset,1.132722933,Cancer Cycling,Tumor
+0,1.132712915,0.808,0.344,0,Cancer Cycling,IDH2,subset,1.132712915,Cancer Cycling,Tumor
+0,1.119515445,0.788,0.198,0,Cancer Cycling,CKS1B,subset,1.119515445,Cancer Cycling,Tumor
+0,1.109502382,0.572,0.044,0,Cancer Cycling,CENPF,subset,1.109502382,Cancer Cycling,Tumor
+0,1.053416293,0.112,0.008,0,Cancer Cycling,SERPINB3,subset,1.053416293,Cancer Cycling,Tumor
+0,1.05310913,0.467,0.174,0,Cancer Cycling,AIM1,subset,1.05310913,Cancer Cycling,Tumor
+7.949999999999999e-240,1.044577407,0.188,0.054,2.3699999999999994e-235,Cancer Cycling,KRT17,subset,1.044577407,Cancer Cycling,Tumor
+0,1.033988625,0.504,0.107,0,Cancer Cycling,CKB,subset,1.033988625,Cancer Cycling,Tumor
+0,1.031930066,0.914,0.581,0,Cancer Cycling,DBI,subset,1.031930066,Cancer Cycling,Tumor
+0,1.020965816,0.859,0.306,0,Cancer Cycling,PERP,subset,1.020965816,Cancer Cycling,Tumor
+0,1.014144875,0.647,0.207,0,Cancer Cycling,ATG5,subset,1.014144875,Cancer Cycling,Tumor
+0,1.011079467,0.571,0.024,0,Cancer Cycling,BIRC5,subset,1.011079467,Cancer Cycling,Tumor
+0,1.006555345,0.816,0.316,0,Cancer Cycling,STRA13,subset,1.006555345,Cancer Cycling,Tumor
+0,0.990693062,0.828,0.275,0,Cancer Cycling,GGCT,subset,0.990693062,Cancer Cycling,Tumor
+0,0.98118577,0.829,0.342,0,Cancer Cycling,SPINT2,subset,0.98118577,Cancer Cycling,Tumor
+0,0.966012885,0.651,0.09,0,Cancer Cycling,HMGB3,subset,0.966012885,Cancer Cycling,Tumor
+0,0.931438041,0.812,0.403,0,Cancer Cycling,PFDN2,subset,0.931438041,Cancer Cycling,Tumor
+0,0.928836726,0.614,0.072,0,Cancer Cycling,CENPW,subset,0.928836726,Cancer Cycling,Tumor
+0,0.926764122,0.906,0.55,0,Cancer Cycling,PKM,subset,0.926764122,Cancer Cycling,Tumor
+0,0.919686546,0.922,0.561,0,Cancer Cycling,CSTB,subset,0.919686546,Cancer Cycling,Tumor
+1.91e-277,0.910516294,0.195,0.056,5.6800000000000005e-273,Cancer Cycling,SAA1,subset,0.910516294,Cancer Cycling,Tumor
+0,0.906043397,0.268,0.03,0,Cancer Cycling,FABP7,subset,0.906043397,Cancer Cycling,Tumor
+4.5699999999999994e-226,0.905834114,0.49,0.277,1.36e-221,Cancer Cycling,FABP5,subset,0.905834114,Cancer Cycling,Tumor
+0,0.90034722,0.941,0.695,0,Cancer Cycling,YBX1,subset,0.90034722,Cancer Cycling,Tumor
+0,0.891196674,0.845,0.352,0,Cancer Cycling,LSM4,subset,0.891196674,Cancer Cycling,Tumor
+0,0.889069034,0.864,0.419,0,Cancer Cycling,HN1,subset,0.889069034,Cancer Cycling,Tumor
+0,0.886032257,0.918,0.599,0,Cancer Cycling,HMGN2,subset,0.886032257,Cancer Cycling,Tumor
+0,0.883922482,0.447,0.019,0,Cancer Cycling,RRM2,subset,0.883922482,Cancer Cycling,Tumor
+0,0.877087036,0.572,0.242,0,Cancer Cycling,S100A16,subset,0.877087036,Cancer Cycling,Tumor
+0,0.874826037,0.602,0.043,0,Cancer Cycling,TYMS,subset,0.874826037,Cancer Cycling,Tumor
+0,0.873063041,0.893,0.527,0,Cancer Cycling,ENO1,subset,0.873063041,Cancer Cycling,Tumor
+0,0.854740274,0.633,0.054,0,Cancer Cycling,UBE2T,subset,0.854740274,Cancer Cycling,Tumor
+0,0.852872802,0.873,0.508,0,Cancer Cycling,P4HB,subset,0.852872802,Cancer Cycling,Tumor
+0,0.850956968,0.412,0.027,0,Cancer Cycling,KIAA0101,subset,0.850956968,Cancer Cycling,Tumor
+0,0.840925069,0.93,0.621,0,Cancer Cycling,UQCRH,subset,0.840925069,Cancer Cycling,Tumor
+0,0.832631175,0.669,0.16,0,Cancer Cycling,PFN2,subset,0.832631175,Cancer Cycling,Tumor
+0,0.832208647,0.749,0.252,0,Cancer Cycling,KRT19,subset,0.832208647,Cancer Cycling,Tumor
+0,0.825206675,0.478,0.021,0,Cancer Cycling,CDC20,subset,0.825206675,Cancer Cycling,Tumor
+0,0.822088466,0.968,0.797,0,Cancer Cycling,HMGB1,subset,0.822088466,Cancer Cycling,Tumor
+0,0.820907479,0.8,0.435,0,Cancer Cycling,SIVA1,subset,0.820907479,Cancer Cycling,Tumor
+0,0.817024293,0.852,0.449,0,Cancer Cycling,NUCKS1,subset,0.817024293,Cancer Cycling,Tumor
+0,0.81462445000000006,0.921,0.572,0,Cancer Cycling,ANXA2,subset,0.81462445000000006,Cancer Cycling,Tumor
+0,0.812557647,0.467,0.098,0,Cancer Cycling,C6orf203,subset,0.812557647,Cancer Cycling,Tumor
+0,0.810728181,0.965,0.781,0,Cancer Cycling,CHCHD2,subset,0.810728181,Cancer Cycling,Tumor
+0,0.803164226,0.833,0.389,0,Cancer Cycling,RANBP1,subset,0.803164226,Cancer Cycling,Tumor
+0,0.801555014,0.847,0.427,0,Cancer Cycling,MARCKSL1,subset,0.801555014,Cancer Cycling,Tumor
+0,0.796469502,0.49,0.024,0,Cancer Cycling,MKI67,subset,0.796469502,Cancer Cycling,Tumor
+0,0.782603723,0.764,0.247,0,Cancer Cycling,EIF4EBP1,subset,0.782603723,Cancer Cycling,Tumor
+0,0.777579959,0.493,0.038,0,Cancer Cycling,NUSAP1,subset,0.777579959,Cancer Cycling,Tumor
+0,0.77660294,0.96,0.71,0,Cancer Cycling,ALDOA,subset,0.77660294,Cancer Cycling,Tumor
+0,0.773476476,0.458,0.11,0,Cancer Cycling,CALML5,subset,0.773476476,Cancer Cycling,Tumor
+0,0.771270089,0.295,0.085,0,Cancer Cycling,S100P,subset,0.771270089,Cancer Cycling,Tumor
+0,0.770514559,0.685,0.152,0,Cancer Cycling,DTYMK,subset,0.770514559,Cancer Cycling,Tumor
+0,0.76961436,0.195,0.017,0,Cancer Cycling,LY6D,subset,0.76961436,Cancer Cycling,Tumor
+0,0.763298994,0.455,0.03,0,Cancer Cycling,CDK1,subset,0.763298994,Cancer Cycling,Tumor
+0,0.76289578,0.587,0.119,0,Cancer Cycling,PTTG1,subset,0.76289578,Cancer Cycling,Tumor
+0,0.762345789,0.526,0.082,0,Cancer Cycling,SFN,subset,0.762345789,Cancer Cycling,Tumor
+0,0.762155146,0.871,0.438,0,Cancer Cycling,AP2S1,subset,0.762155146,Cancer Cycling,Tumor
+0,0.760251672,0.842,0.379,0,Cancer Cycling,CCT6A,subset,0.760251672,Cancer Cycling,Tumor
+0,0.758029032,0.757,0.238,0,Cancer Cycling,PAFAH1B3,subset,0.758029032,Cancer Cycling,Tumor
+0,0.755687369,0.732,0.286,0,Cancer Cycling,FDPS,subset,0.755687369,Cancer Cycling,Tumor
+0,0.752124024,0.939,0.679,0,Cancer Cycling,H2AFZ,subset,0.752124024,Cancer Cycling,Tumor
+0,0.751103316,0.932,0.684,0,Cancer Cycling,MIF,subset,0.751103316,Cancer Cycling,Tumor
+0,0.745649034,0.604,0.159,0,Cancer Cycling,NQO1,subset,0.745649034,Cancer Cycling,Tumor
+0,0.744755203,0.875,0.493,0,Cancer Cycling,SNRPG,subset,0.744755203,Cancer Cycling,Tumor
+0,0.743345284,0.687,0.227,0,Cancer Cycling,HEBP2,subset,0.743345284,Cancer Cycling,Tumor
+0,0.731646873,0.938,0.679,0,Cancer Cycling,TPI1,subset,0.731646873,Cancer Cycling,Tumor
+0,0.728358211,0.608,0.237,0,Cancer Cycling,CCND1,subset,0.728358211,Cancer Cycling,Tumor
+0,0.720001819,0.744,0.286,0,Cancer Cycling,SPTSSA,subset,0.720001819,Cancer Cycling,Tumor
+0,0.718875736,0.835,0.428,0,Cancer Cycling,H2AFV,subset,0.718875736,Cancer Cycling,Tumor
+0,0.71774424,0.825,0.383,0,Cancer Cycling,SNRPE,subset,0.71774424,Cancer Cycling,Tumor
+0,0.712721682,0.767,0.306,0,Cancer Cycling,CCT5,subset,0.712721682,Cancer Cycling,Tumor
+0,0.71235609,0.644,0.18,0,Cancer Cycling,SERINC2,subset,0.71235609,Cancer Cycling,Tumor
+0,0.712206628,0.673,0.207,0,Cancer Cycling,TNFRSF12A,subset,0.712206628,Cancer Cycling,Tumor
+0,0.709415835,0.827,0.376,0,Cancer Cycling,LSM5,subset,0.709415835,Cancer Cycling,Tumor
+0,0.706491216,0.906,0.645,0,Cancer Cycling,RPS17,subset,0.706491216,Cancer Cycling,Tumor
+0,0.702795792,0.555,0.038,0,Cancer Cycling,ZWINT,subset,0.702795792,Cancer Cycling,Tumor
+0,0.700370491,0.703,0.198,0,Cancer Cycling,TOMM40,subset,0.700370491,Cancer Cycling,Tumor
+0,0.700136517,0.327,0.062,0,Cancer Cycling,RP11-206M11.7,subset,0.700136517,Cancer Cycling,Tumor
+0,0.700100168,0.579,0.124,0,Cancer Cycling,SLPI,subset,0.700100168,Cancer Cycling,Tumor
+0,0.699757322,0.62,0.251,0,Cancer Cycling,ASPH,subset,0.699757322,Cancer Cycling,Tumor
+0,0.698459002,0.843,0.425,0,Cancer Cycling,KDELR2,subset,0.698459002,Cancer Cycling,Tumor
+0,0.696895334,0.644,0.155,0,Cancer Cycling,SMC4,subset,0.696895334,Cancer Cycling,Tumor
+0,0.695268001,0.73,0.286,0,Cancer Cycling,MDK,subset,0.695268001,Cancer Cycling,Tumor
+0,3.368604778,0.217,0.036,0,Cancer Her2 SC,SCGB1B2P,subset,3.368604778,Cancer Her2 SC,Tumor
+0,2.77003001,0.969,0.304,0,Cancer Her2 SC,CD24,subset,2.77003001,Cancer Her2 SC,Tumor
+0,2.762625927,0.807,0.127,0,Cancer Her2 SC,MUCL1,subset,2.762625927,Cancer Her2 SC,Tumor
+0,1.781120117,0.586,0.111,0,Cancer Her2 SC,CALML5,subset,1.781120117,Cancer Her2 SC,Tumor
+0,1.772197686,0.737,0.35,0,Cancer Her2 SC,MIEN1,subset,1.772197686,Cancer Her2 SC,Tumor
+0,1.74391543,0.944,0.236,0,Cancer Her2 SC,KRT7,subset,1.74391543,Cancer Her2 SC,Tumor
+0,1.732421067,0.941,0.585,0,Cancer Her2 SC,DBI,subset,1.732421067,Cancer Her2 SC,Tumor
+0,1.598185568,0.527,0.107,0,Cancer Her2 SC,ERBB2,subset,1.598185568,Cancer Her2 SC,Tumor
+0,1.490408327,0.888,0.349,0,Cancer Her2 SC,IDH2,subset,1.490408327,Cancer Her2 SC,Tumor
+0,1.470286747,0.843,0.257,0,Cancer Her2 SC,KRT19,subset,1.470286747,Cancer Her2 SC,Tumor
+0,1.428487774,0.418,0.084,0,Cancer Her2 SC,GRB7,subset,1.428487774,Cancer Her2 SC,Tumor
+0,1.323771553,0.941,0.346,0,Cancer Her2 SC,SPINT2,subset,1.323771553,Cancer Her2 SC,Tumor
+0,1.320476294,0.732,0.126,0,Cancer Her2 SC,SLPI,subset,1.320476294,Cancer Her2 SC,Tumor
+0,1.254541535,0.783,0.183,0,Cancer Her2 SC,SERINC2,subset,1.254541535,Cancer Her2 SC,Tumor
+0,1.250166004,0.321,0.032,0,Cancer Her2 SC,FABP7,subset,1.250166004,Cancer Her2 SC,Tumor
+0,1.220783687,0.366,0.078,0,Cancer Her2 SC,S100A8,subset,1.220783687,Cancer Her2 SC,Tumor
+0,1.18811831,0.786,0.186,0,Cancer Her2 SC,CLDN3,subset,1.18811831,Cancer Her2 SC,Tumor
+0,1.186031565,0.475,0.136,0,Cancer Her2 SC,S100A9,subset,1.186031565,Cancer Her2 SC,Tumor
+0,1.183746407,0.522,0.059,0,Cancer Her2 SC,RP11-206M11.7,subset,1.183746407,Cancer Her2 SC,Tumor
+0,1.162887178,0.899,0.268,0,Cancer Her2 SC,KRT8,subset,1.162887178,Cancer Her2 SC,Tumor
+0,1.158061398,0.609,0.215,0,Cancer Her2 SC,ATG5,subset,1.158061398,Cancer Her2 SC,Tumor
+0,1.154117472,0.902,0.314,0,Cancer Her2 SC,PERP,subset,1.154117472,Cancer Her2 SC,Tumor
+0,1.140728305,0.873,0.343,0,Cancer Her2 SC,CRIP2,subset,1.140728305,Cancer Her2 SC,Tumor
+0,1.118157302,0.605,0.113,0,Cancer Her2 SC,TFF3,subset,1.118157302,Cancer Her2 SC,Tumor
+0,1.107027934,0.778,0.14,0,Cancer Her2 SC,SPDEF,subset,1.107027934,Cancer Her2 SC,Tumor
+0,1.106893936,0.591,0.295,0,Cancer Her2 SC,C17orf89,subset,1.106893936,Cancer Her2 SC,Tumor
+0,1.100605226,0.973,0.713,0,Cancer Her2 SC,ALDOA,subset,1.100605226,Cancer Her2 SC,Tumor
+0,1.096549429,0.683,0.067,0,Cancer Her2 SC,TFAP2B,subset,1.096549429,Cancer Her2 SC,Tumor
+0,1.050759272,0.586,0.167,0,Cancer Her2 SC,NQO1,subset,1.050759272,Cancer Her2 SC,Tumor
+0,1.049309314,0.533,0.077,0,Cancer Her2 SC,TMC5,subset,1.049309314,Cancer Her2 SC,Tumor
+0,1.045397202,0.645,0.11,0,Cancer Her2 SC,SCD,subset,1.045397202,Cancer Her2 SC,Tumor
+0,1.040742427,0.751,0.233,0,Cancer Her2 SC,HEBP2,subset,1.040742427,Cancer Her2 SC,Tumor
+0,1.037082535,0.641,0.093,0,Cancer Her2 SC,TM7SF2,subset,1.037082535,Cancer Her2 SC,Tumor
+0,1.031109531,0.607,0.148,0,Cancer Her2 SC,SQLE,subset,1.031109531,Cancer Her2 SC,Tumor
+0,1.025892037,0.474,0.179,0,Cancer Her2 SC,AIM1,subset,1.025892037,Cancer Her2 SC,Tumor
+0,1.018072434,0.846,0.318,0,Cancer Her2 SC,NUPR1,subset,1.018072434,Cancer Her2 SC,Tumor
+0,1.002672026,0.503,0.103,0,Cancer Her2 SC,C6orf203,subset,1.002672026,Cancer Her2 SC,Tumor
+0,1.000885239,0.871,0.238,0,Cancer Her2 SC,CLDN4,subset,1.000885239,Cancer Her2 SC,Tumor
+0,1.000154193,0.889,0.513,0,Cancer Her2 SC,P4HB,subset,1.000154193,Cancer Her2 SC,Tumor
+0,0.996229006,0.85,0.558,0,Cancer Her2 SC,PKM,subset,0.996229006,Cancer Her2 SC,Tumor
+0,0.981803573,0.929,0.287,0,Cancer Her2 SC,KRT18,subset,0.981803573,Cancer Her2 SC,Tumor
+0,0.976491341,0.982,0.768,0,Cancer Her2 SC,PPDPF,subset,0.976491341,Cancer Her2 SC,Tumor
+0,0.970547259,0.895,0.242,0,Cancer Her2 SC,MGST1,subset,0.970547259,Cancer Her2 SC,Tumor
+2.5099999999999998e-129,0.959140299,0.309,0.151,7.48e-125,Cancer Her2 SC,SCGB2A2,subset,0.959140299,Cancer Her2 SC,Tumor
+0,0.948424032,0.811,0.285,0,Cancer Her2 SC,GGCT,subset,0.948424032,Cancer Her2 SC,Tumor
+0,0.94719062,0.686,0.296,0,Cancer Her2 SC,FDPS,subset,0.94719062,Cancer Her2 SC,Tumor
+0,0.947115225,0.876,0.513,0,Cancer Her2 SC,NDUFB9,subset,0.947115225,Cancer Her2 SC,Tumor
+0,0.942325023,0.971,0.686,0,Cancer Her2 SC,MIF,subset,0.942325023,Cancer Her2 SC,Tumor
+0,0.939319905,0.806,0.215,0,Cancer Her2 SC,FXYD3,subset,0.939319905,Cancer Her2 SC,Tumor
+0,0.929417632,0.714,0.291,0,Cancer Her2 SC,PLA2G16,subset,0.929417632,Cancer Her2 SC,Tumor
+0,0.927857278,0.573,0.07,0,Cancer Her2 SC,LMTK3,subset,0.927857278,Cancer Her2 SC,Tumor
+7.139999999999999e-298,0.92059324,0.439,0.236,2.12e-293,Cancer Her2 SC,PSMD3,subset,0.92059324,Cancer Her2 SC,Tumor
+0,0.920191914,0.875,0.386,0,Cancer Her2 SC,CD9,subset,0.920191914,Cancer Her2 SC,Tumor
+0,0.906341565,0.891,0.504,0,Cancer Her2 SC,LGALS3,subset,0.906341565,Cancer Her2 SC,Tumor
+0,0.904370512,0.107,0.005,0,Cancer Her2 SC,HPD,subset,0.904370512,Cancer Her2 SC,Tumor
+0,0.900861533,0.7,0.198,0,Cancer Her2 SC,EFHD1,subset,0.900861533,Cancer Her2 SC,Tumor
+0,0.897946003,0.87,0.434,0,Cancer Her2 SC,MARCKSL1,subset,0.897946003,Cancer Her2 SC,Tumor
+0,0.896788985,0.818,0.31,0,Cancer Her2 SC,TMED3,subset,0.896788985,Cancer Her2 SC,Tumor
+0,0.872715714,0.754,0.19,0,Cancer Her2 SC,CLDN7,subset,0.872715714,Cancer Her2 SC,Tumor
+0,0.871284241,0.66,0.229,0,Cancer Her2 SC,EPHX1,subset,0.871284241,Cancer Her2 SC,Tumor
+0,0.869371182,0.489,0.098,0,Cancer Her2 SC,EGLN3,subset,0.869371182,Cancer Her2 SC,Tumor
+0,0.861357974,0.98,0.783,0,Cancer Her2 SC,CHCHD2,subset,0.861357974,Cancer Her2 SC,Tumor
+0,0.858795783,0.909,0.601,0,Cancer Her2 SC,TXN,subset,0.858795783,Cancer Her2 SC,Tumor
+5.08e-280,0.852928675,0.108,0.007,1.51e-275,Cancer Her2 SC,CLEC3A,subset,0.852928675,Cancer Her2 SC,Tumor
+0,0.85284639,0.795,0.364,0,Cancer Her2 SC,AKR1A1,subset,0.85284639,Cancer Her2 SC,Tumor
+0,0.851044096,0.692,0.238,0,Cancer Her2 SC,BNIP3,subset,0.851044096,Cancer Her2 SC,Tumor
+0,0.839844936,0.866,0.241,0,Cancer Her2 SC,AZGP1,subset,0.839844936,Cancer Her2 SC,Tumor
+0,0.839232078,0.735,0.174,0,Cancer Her2 SC,RAB25,subset,0.839232078,Cancer Her2 SC,Tumor
+0,0.83743925,0.677,0.212,0,Cancer Her2 SC,C14orf1,subset,0.83743925,Cancer Her2 SC,Tumor
+0,0.836869602,0.614,0.099,0,Cancer Her2 SC,REEP6,subset,0.836869602,Cancer Her2 SC,Tumor
+0,0.826923406,0.765,0.247,0,Cancer Her2 SC,PAFAH1B3,subset,0.826923406,Cancer Her2 SC,Tumor
+0,0.825752116,0.865,0.534,0,Cancer Her2 SC,ENO1,subset,0.825752116,Cancer Her2 SC,Tumor
+0,0.817110039,0.94,0.683,0,Cancer Her2 SC,PRDX1,subset,0.817110039,Cancer Her2 SC,Tumor
+0,0.812544907,0.337,0.018,0,Cancer Her2 SC,LINC01285,subset,0.812544907,Cancer Her2 SC,Tumor
+0,0.812358902,0.768,0.197,0,Cancer Her2 SC,EPCAM,subset,0.812358902,Cancer Her2 SC,Tumor
+0,0.804926983,0.486,0.114,0,Cancer Her2 SC,CKB,subset,0.804926983,Cancer Her2 SC,Tumor
+0,0.803430753,0.7,0.173,0,Cancer Her2 SC,PLPP2,subset,0.803430753,Cancer Her2 SC,Tumor
+0,0.803321097,0.807,0.23,0,Cancer Her2 SC,TACSTD2,subset,0.803321097,Cancer Her2 SC,Tumor
+0,0.802282992,0.82,0.281,0,Cancer Her2 SC,TM4SF1,subset,0.802282992,Cancer Her2 SC,Tumor
+0,0.800613215,0.465,0.163,0,Cancer Her2 SC,S100A14,subset,0.800613215,Cancer Her2 SC,Tumor
+0,0.79527535,0.488,0.172,0,Cancer Her2 SC,IGFBP5,subset,0.79527535,Cancer Her2 SC,Tumor
+0,0.791453361,0.768,0.299,0,Cancer Her2 SC,BLVRB,subset,0.791453361,Cancer Her2 SC,Tumor
+0,0.789950927,0.571,0.116,0,Cancer Her2 SC,HILPDA,subset,0.789950927,Cancer Her2 SC,Tumor
+0,0.785373173,0.739,0.33,0,Cancer Her2 SC,TNFSF10,subset,0.785373173,Cancer Her2 SC,Tumor
+0,0.783138218,0.912,0.578,0,Cancer Her2 SC,ANXA2,subset,0.783138218,Cancer Her2 SC,Tumor
+7.51e-192,0.782965141,0.197,0.074,2.23e-187,Cancer Her2 SC,PPP1R1B,subset,0.782965141,Cancer Her2 SC,Tumor
+0,0.777745116,0.855,0.467,0,Cancer Her2 SC,SYNGR2,subset,0.777745116,Cancer Her2 SC,Tumor
+0,0.773580349,0.579,0.127,0,Cancer Her2 SC,AR,subset,0.773580349,Cancer Her2 SC,Tumor
+0,0.7719957,0.695,0.183,0,Cancer Her2 SC,DSP,subset,0.7719957,Cancer Her2 SC,Tumor
+0,0.76773159,0.65,0.155,0,Cancer Her2 SC,FASN,subset,0.76773159,Cancer Her2 SC,Tumor
+0,0.761146699,0.945,0.517,0,Cancer Her2 SC,DSTN,subset,0.761146699,Cancer Her2 SC,Tumor
+0,0.757903315,0.951,0.65,0,Cancer Her2 SC,GPX4,subset,0.757903315,Cancer Her2 SC,Tumor
+0,0.753538273,0.65,0.153,0,Cancer Her2 SC,MTA1,subset,0.753538273,Cancer Her2 SC,Tumor
+0,0.7512471,0.673,0.174,0,Cancer Her2 SC,CTNNBIP1,subset,0.7512471,Cancer Her2 SC,Tumor
+0,0.750376962,0.78,0.288,0,Cancer Her2 SC,SEPP1,subset,0.750376962,Cancer Her2 SC,Tumor
+0,0.749913215,0.559,0.136,0,Cancer Her2 SC,MAL2,subset,0.749913215,Cancer Her2 SC,Tumor
+0,0.747960502,0.519,0.106,0,Cancer Her2 SC,PDZK1IP1,subset,0.747960502,Cancer Her2 SC,Tumor
+0,0.747381209,0.667,0.168,0,Cancer Her2 SC,SPINT1,subset,0.747381209,Cancer Her2 SC,Tumor
+0,0.741268116,0.878,0.528,0,Cancer Her2 SC,PRDX5,subset,0.741268116,Cancer Her2 SC,Tumor
+0,0.737737074,0.433,0.083,0,Cancer Her2 SC,S100P,subset,0.737737074,Cancer Her2 SC,Tumor
+0,3.589192614,0.769,0.106,0,Cancer LumA SC,SCGB2A2,subset,3.589192614,Cancer LumA SC,Tumor
+0,2.72991303,0.643,0.05,0,Cancer LumA SC,SCGB1D2,subset,2.72991303,Cancer LumA SC,Tumor
+0,2.708569558,0.819,0.061,0,Cancer LumA SC,PIP,subset,2.708569558,Cancer LumA SC,Tumor
+0,2.172050555,0.907,0.186,0,Cancer LumA SC,ELF3,subset,2.172050555,Cancer LumA SC,Tumor
+0,2.127709588,0.553,0.032,0,Cancer LumA SC,SCGB2A1,subset,2.127709588,Cancer LumA SC,Tumor
+0,2.064846069,0.858,0.117,0,Cancer LumA SC,S100A14,subset,2.064846069,Cancer LumA SC,Tumor
+0,2.028887863,0.88,0.12,0,Cancer LumA SC,AGR2,subset,2.028887863,Cancer LumA SC,Tumor
+0,1.941495033,0.959,0.206,0,Cancer LumA SC,AZGP1,subset,1.941495033,Cancer LumA SC,Tumor
+0,1.926088966,0.961,0.256,0,Cancer LumA SC,KRT18,subset,1.926088966,Cancer LumA SC,Tumor
+0,1.866232735,0.424,0.027,0,Cancer LumA SC,TFF1,subset,1.866232735,Cancer LumA SC,Tumor
+0,1.855979074,0.889,0.209,0,Cancer LumA SC,CLDN4,subset,1.855979074,Cancer LumA SC,Tumor
+0,1.814995234,0.577,0.052,0,Cancer LumA SC,S100A1,subset,1.814995234,Cancer LumA SC,Tumor
+0,1.750437708,0.804,0.158,0,Cancer LumA SC,CLDN3,subset,1.750437708,Cancer LumA SC,Tumor
+0,1.628463417,0.785,0.065,0,Cancer LumA SC,ANKRD30A,subset,1.628463417,Cancer LumA SC,Tumor
+0,1.616654191,0.952,0.222,0,Cancer LumA SC,KRT19,subset,1.616654191,Cancer LumA SC,Tumor
+0,1.610589181,0.512,0.097,0,Cancer LumA SC,CALML5,subset,1.610589181,Cancer LumA SC,Tumor
+0,1.563861503,0.789,0.168,0,Cancer LumA SC,EFNA1,subset,1.563861503,Cancer LumA SC,Tumor
+0,1.548712526,0.941,0.236,0,Cancer LumA SC,KRT8,subset,1.548712526,Cancer LumA SC,Tumor
+0,1.53479654,0.793,0.074,0,Cancer LumA SC,MUC1,subset,1.53479654,Cancer LumA SC,Tumor
+0,1.486762865,0.774,0.076,0,Cancer LumA SC,AGR3,subset,1.486762865,Cancer LumA SC,Tumor
+0,1.462133535,0.676,0.086,0,Cancer LumA SC,TFF3,subset,1.462133535,Cancer LumA SC,Tumor
+0,1.458247641,0.721,0.101,0,Cancer LumA SC,GPRC5A,subset,1.458247641,Cancer LumA SC,Tumor
+0,1.427688942,0.392,0.046,0,Cancer LumA SC,GDF15,subset,1.427688942,Cancer LumA SC,Tumor
+0,1.425638651,0.887,0.278,0,Cancer LumA SC,S100A13,subset,1.425638651,Cancer LumA SC,Tumor
+0,1.418780756,0.965,0.35,0,Cancer LumA SC,TSTD1,subset,1.418780756,Cancer LumA SC,Tumor
+0,1.382178432,0.929,0.327,0,Cancer LumA SC,CYB5A,subset,1.382178432,Cancer LumA SC,Tumor
+0,1.339712248,0.862,0.128,0,Cancer LumA SC,SMIM22,subset,1.339712248,Cancer LumA SC,Tumor
+0,1.307968784,0.266,0.06,0,Cancer LumA SC,RP11-206M11.7,subset,1.307968784,Cancer LumA SC,Tumor
+0,1.29415316,0.843,0.171,0,Cancer LumA SC,CRABP2,subset,1.29415316,Cancer LumA SC,Tumor
+0,1.274852711,0.834,0.509,0,Cancer LumA SC,BTG2,subset,1.274852711,Cancer LumA SC,Tumor
+0,1.273368561,0.836,0.319,0,Cancer LumA SC,PYCARD,subset,1.273368561,Cancer LumA SC,Tumor
+0,1.25828796,0.633,0.09,0,Cancer LumA SC,WFDC2,subset,1.25828796,Cancer LumA SC,Tumor
+0,1.245383332,0.956,0.598,0,Cancer LumA SC,HSPB1,subset,1.245383332,Cancer LumA SC,Tumor
+0,1.236013234,0.996,0.758,0,Cancer LumA SC,PPDPF,subset,1.236013234,Cancer LumA SC,Tumor
+0,1.208501093,0.722,0.085,0,Cancer LumA SC,DEGS2,subset,1.208501093,Cancer LumA SC,Tumor
+0,1.206615958,0.946,0.476,0,Cancer LumA SC,XBP1,subset,1.206615958,Cancer LumA SC,Tumor
+0,1.202668772,0.935,0.32,0,Cancer LumA SC,SPINT2,subset,1.202668772,Cancer LumA SC,Tumor
+0,1.193743211,0.796,0.117,0,Cancer LumA SC,ZG16B,subset,1.193743211,Cancer LumA SC,Tumor
+0,1.193573298,0.788,0.162,0,Cancer LumA SC,CLDN7,subset,1.193573298,Cancer LumA SC,Tumor
+0,1.163164951,0.397,0.013,0,Cancer LumA SC,PYDC1,subset,1.163164951,Cancer LumA SC,Tumor
+0,1.160538744,0.698,0.211,0,Cancer LumA SC,CLU,subset,1.160538744,Cancer LumA SC,Tumor
+0,1.153118772,0.576,0.057,0,Cancer LumA SC,ESR1,subset,1.153118772,Cancer LumA SC,Tumor
+0,1.152915894,0.858,0.185,0,Cancer LumA SC,FXYD3,subset,1.152915894,Cancer LumA SC,Tumor
+0,1.138061446,0.817,0.203,0,Cancer LumA SC,TACSTD2,subset,1.138061446,Cancer LumA SC,Tumor
+0,1.131192886,0.785,0.115,0,Cancer LumA SC,MLPH,subset,1.131192886,Cancer LumA SC,Tumor
+0,1.117521888,0.784,0.183,0,Cancer LumA SC,TRPS1,subset,1.117521888,Cancer LumA SC,Tumor
+0,1.115668404,0.825,0.215,0,Cancer LumA SC,GATA3,subset,1.115668404,Cancer LumA SC,Tumor
+0,1.11377022,0.945,0.461,0,Cancer LumA SC,RHOB,subset,1.11377022,Cancer LumA SC,Tumor
+0,1.087624364,0.941,0.655,0,Cancer LumA SC,COX6C,subset,1.087624364,Cancer LumA SC,Tumor
+0,1.075751223,0.863,0.217,0,Cancer LumA SC,MGST1,subset,1.075751223,Cancer LumA SC,Tumor
+0,1.071124244,0.887,0.402,0,Cancer LumA SC,GLUL,subset,1.071124244,Cancer LumA SC,Tumor
+0,1.068703746,0.867,0.244,0,Cancer LumA SC,TSPAN13,subset,1.068703746,Cancer LumA SC,Tumor
+0,1.062766357,0.381,0.065,0,Cancer LumA SC,LTF,subset,1.062766357,Cancer LumA SC,Tumor
+0,1.056080746,0.972,0.674,0,Cancer LumA SC,MIF,subset,1.056080746,Cancer LumA SC,Tumor
+0,1.039198293,0.905,0.362,0,Cancer LumA SC,CD9,subset,1.039198293,Cancer LumA SC,Tumor
+0,1.013034995,0.352,0.077,0,Cancer LumA SC,CA2,subset,1.013034995,Cancer LumA SC,Tumor
+0,1.012453557,0.758,0.114,0,Cancer LumA SC,SPDEF,subset,1.012453557,Cancer LumA SC,Tumor
+0,1.010862285,0.941,0.519,0,Cancer LumA SC,UQCRQ,subset,1.010862285,Cancer LumA SC,Tumor
+0,1.002165233,0.748,0.213,0,Cancer LumA SC,SLC39A6,subset,1.002165233,Cancer LumA SC,Tumor
+0,0.994993351,0.742,0.233,0,Cancer LumA SC,H1F0,subset,0.994993351,Cancer LumA SC,Tumor
+0,0.987116465,0.857,0.425,0,Cancer LumA SC,MGP,subset,0.987116465,Cancer LumA SC,Tumor
+0,0.97411101,0.507,0.049,0,Cancer LumA SC,NUPR2,subset,0.97411101,Cancer LumA SC,Tumor
+0,0.96570862,0.93,0.481,0,Cancer LumA SC,SRP9,subset,0.96570862,Cancer LumA SC,Tumor
+0,0.961199741,0.441,0.099,0,Cancer LumA SC,AP000769.1,subset,0.961199741,Cancer LumA SC,Tumor
+0,0.946537747,0.652,0.071,0,Cancer LumA SC,LRRC26,subset,0.946537747,Cancer LumA SC,Tumor
+0,0.93931072,0.766,0.217,0,Cancer LumA SC,S100A16,subset,0.93931072,Cancer LumA SC,Tumor
+0,0.933678977,0.176,0.033,0,Cancer LumA SC,TFPI2,subset,0.933678977,Cancer LumA SC,Tumor
+0,0.927729252,0.778,0.312,0,Cancer LumA SC,BHLHE40,subset,0.927729252,Cancer LumA SC,Tumor
+0,0.922683266,0.847,0.222,0,Cancer LumA SC,ADIRF,subset,0.922683266,Cancer LumA SC,Tumor
+0,0.921356941,0.614,0.136,0,Cancer LumA SC,FASN,subset,0.921356941,Cancer LumA SC,Tumor
+0,0.919172191,0.716,0.315,0,Cancer LumA SC,NME2,subset,0.919172191,Cancer LumA SC,Tumor
+0,0.911760937,0.855,0.362,0,Cancer LumA SC,DCXR,subset,0.911760937,Cancer LumA SC,Tumor
+0,0.908670866,0.774,0.249,0,Cancer LumA SC,SMIM14,subset,0.908670866,Cancer LumA SC,Tumor
+0,0.904656523,0.602,0.073,0,Cancer LumA SC,CA12,subset,0.904656523,Cancer LumA SC,Tumor
+0,0.892815013,0.677,0.17,0,Cancer LumA SC,SCCPDH,subset,0.892815013,Cancer LumA SC,Tumor
+0,0.892278346,0.477,0.035,0,Cancer LumA SC,SCGB3A1,subset,0.892278346,Cancer LumA SC,Tumor
+0,0.888721901,0.502,0.065,0,Cancer LumA SC,FOXA1,subset,0.888721901,Cancer LumA SC,Tumor
+0,0.882779403,0.686,0.152,0,Cancer LumA SC,PBX1,subset,0.882779403,Cancer LumA SC,Tumor
+0,0.859794505,0.414,0.038,0,Cancer LumA SC,KRT23,subset,0.859794505,Cancer LumA SC,Tumor
+0,0.858226699,0.847,0.489,0,Cancer LumA SC,SH3BGRL,subset,0.858226699,Cancer LumA SC,Tumor
+0,0.857428214,0.376,0.023,0,Cancer LumA SC,CYP4Z1,subset,0.857428214,Cancer LumA SC,Tumor
+0,0.851586949,0.314,0.075,0,Cancer LumA SC,STC2,subset,0.851586949,Cancer LumA SC,Tumor
+0,0.851390424,0.89,0.441,0,Cancer LumA SC,NBEAL1,subset,0.851390424,Cancer LumA SC,Tumor
+0,0.843357064,0.777,0.372,0,Cancer LumA SC,IER3,subset,0.843357064,Cancer LumA SC,Tumor
+0,0.836067301,0.8,0.3,0,Cancer LumA SC,CD46,subset,0.836067301,Cancer LumA SC,Tumor
+0,0.836032818,0.856,0.376,0,Cancer LumA SC,H2AFJ,subset,0.836032818,Cancer LumA SC,Tumor
+0,0.828963096,0.692,0.161,0,Cancer LumA SC,DSP,subset,0.828963096,Cancer LumA SC,Tumor
+0,0.828621314,0.649,0.102,0,Cancer LumA SC,AR,subset,0.828621314,Cancer LumA SC,Tumor
+0,0.823057437,0.362,0.021,0,Cancer LumA SC,SHISA2,subset,0.823057437,Cancer LumA SC,Tumor
+0,0.815343339,0.514,0.138,0,Cancer LumA SC,SSFA2,subset,0.815343339,Cancer LumA SC,Tumor
+0,0.815255446,0.682,0.141,0,Cancer LumA SC,CRACR2B,subset,0.815255446,Cancer LumA SC,Tumor
+0,0.805900156,0.324,0.028,0,Cancer LumA SC,NAT1,subset,0.805900156,Cancer LumA SC,Tumor
+0,0.805309964,0.715,0.151,0,Cancer LumA SC,RAB25,subset,0.805309964,Cancer LumA SC,Tumor
+0,0.800227197,0.871,0.562,0,Cancer LumA SC,LMNA,subset,0.800227197,Cancer LumA SC,Tumor
+0,0.798024632,0.376,0.133,0,Cancer LumA SC,MUCL1,subset,0.798024632,Cancer LumA SC,Tumor
+0,0.796427785,0.47,0.094,0,Cancer LumA SC,SOX9,subset,0.796427785,Cancer LumA SC,Tumor
+0,0.796060125,0.778,0.318,0,Cancer LumA SC,TOB1,subset,0.796060125,Cancer LumA SC,Tumor
+0,0.79069624,0.525,0.04,0,Cancer LumA SC,C1orf64,subset,0.79069624,Cancer LumA SC,Tumor
+0,0.78905326,0.85,0.696,0,Cancer LumA SC,MT-ATP8,subset,0.78905326,Cancer LumA SC,Tumor
+0,0.788728042,0.465,0.089,0,Cancer LumA SC,SEMA3C,subset,0.788728042,Cancer LumA SC,Tumor
+0,2.486181841,0.89,0.232,0,Cancer LumB SC,SLC39A6,subset,2.486181841,Cancer LumB SC,Tumor
+0,2.312864521,0.685,0.037,0,Cancer LumB SC,DHRS2,subset,2.312864521,Cancer LumB SC,Tumor
+0,2.168041874,0.871,0.104,0,Cancer LumB SC,AGR3,subset,2.168041874,Cancer LumB SC,Tumor
+0,2.045114685,0.97,0.667,0,Cancer LumB SC,COX6C,subset,2.045114685,Cancer LumB SC,Tumor
+0,2.042425077,0.895,0.396,0,Cancer LumB SC,H2AFJ,subset,2.042425077,Cancer LumB SC,Tumor
+0,1.898057161,0.864,0.155,0,Cancer LumB SC,AGR2,subset,1.898057161,Cancer LumB SC,Tumor
+0,1.882042154,0.891,0.271,0,Cancer LumB SC,TSPAN13,subset,1.882042154,Cancer LumB SC,Tumor
+0,1.806635135,0.815,0.097,0,Cancer LumB SC,ANKRD30A,subset,1.806635135,Cancer LumB SC,Tumor
+0,1.724201129,0.714,0.072,0,Cancer LumB SC,STC2,subset,1.724201129,Cancer LumB SC,Tumor
+0,1.689921711,0.799,0.159,0,Cancer LumB SC,STARD10,subset,1.689921711,Cancer LumB SC,Tumor
+0,1.656236328,0.868,0.305,0,Cancer LumB SC,MAGED2,subset,1.656236328,Cancer LumB SC,Tumor
+0,1.630829961,0.658,0.111,0,Cancer LumB SC,MLLT4,subset,1.630829961,Cancer LumB SC,Tumor
+0,1.630602713,0.895,0.242,0,Cancer LumB SC,AZGP1,subset,1.630602713,Cancer LumB SC,Tumor
+0,1.630226506,0.958,0.497,0,Cancer LumB SC,XBP1,subset,1.630226506,Cancer LumB SC,Tumor
+0,1.580823341,0.946,0.255,0,Cancer LumB SC,KRT19,subset,1.580823341,Cancer LumB SC,Tumor
+0,1.540302889,0.889,0.214,0,Cancer LumB SC,FXYD3,subset,1.540302889,Cancer LumB SC,Tumor
+0,1.521817231,0.832,0.202,0,Cancer LumB SC,CRABP2,subset,1.521817231,Cancer LumB SC,Tumor
+0,1.50970831,0.754,0.11,0,Cancer LumB SC,ARMT1,subset,1.50970831,Cancer LumB SC,Tumor
+0,1.397087179,0.779,0.239,0,Cancer LumB SC,CCND1,subset,1.397087179,Cancer LumB SC,Tumor
+0,1.306885824,0.661,0.166,0,Cancer LumB SC,MRPS30,subset,1.306885824,Cancer LumB SC,Tumor
+0,1.292311194,0.835,0.365,0,Cancer LumB SC,SLC9A3R1,subset,1.292311194,Cancer LumB SC,Tumor
+0,1.287013576,0.847,0.241,0,Cancer LumB SC,GATA3,subset,1.287013576,Cancer LumB SC,Tumor
+0,1.248571782,0.769,0.271,0,Cancer LumB SC,LGALS3BP,subset,1.248571782,Cancer LumB SC,Tumor
+0,1.242939446,0.835,0.402,0,Cancer LumB SC,MYEOV2,subset,1.242939446,Cancer LumB SC,Tumor
+0,1.233556415,0.825,0.163,0,Cancer LumB SC,SMIM22,subset,1.233556415,Cancer LumB SC,Tumor
+0,1.204890073,0.725,0.075,0,Cancer LumB SC,ESR1,subset,1.204890073,Cancer LumB SC,Tumor
+0,1.161624559,0.692,0.183,0,Cancer LumB SC,GSTM3,subset,1.161624559,Cancer LumB SC,Tumor
+0,1.142365239,0.567,0.042,0,Cancer LumB SC,DNAJC12,subset,1.142365239,Cancer LumB SC,Tumor
+0,1.114313257,0.621,0.09,0,Cancer LumB SC,GJA1,subset,1.114313257,Cancer LumB SC,Tumor
+0,1.098589763,0.752,0.186,0,Cancer LumB SC,TPD52,subset,1.098589763,Cancer LumB SC,Tumor
+2.5099999999999996e-175,1.050727337,0.27,0.114,7.479999999999999e-171,Cancer LumB SC,PIP,subset,1.050727337,Cancer LumB SC,Tumor
+0,1.036227674,0.566,0.026,0,Cancer LumB SC,RP11-53O19.1,subset,1.036227674,Cancer LumB SC,Tumor
+0,1.025804117,0.62,0.095,0,Cancer LumB SC,ZNF703,subset,1.025804117,Cancer LumB SC,Tumor
+0,1.015704157,0.796,0.342,0,Cancer LumB SC,MZT2B,subset,1.015704157,Cancer LumB SC,Tumor
+0,1.014402382,0.549,0.029,0,Cancer LumB SC,AC018816.3,subset,1.014402382,Cancer LumB SC,Tumor
+0,0.999923556,0.719,0.189,0,Cancer LumB SC,SDC4,subset,0.999923556,Cancer LumB SC,Tumor
+0,0.998600151,0.61,0.04,0,Cancer LumB SC,FSIP1,subset,0.998600151,Cancer LumB SC,Tumor
+0,0.99696421,0.674,0.162,0,Cancer LumB SC,ELP2,subset,0.99696421,Cancer LumB SC,Tumor
+0,0.992594621,0.432,0.037,0,Cancer LumB SC,GDAP1,subset,0.992594621,Cancer LumB SC,Tumor
+0,0.983641252,0.919,0.289,0,Cancer LumB SC,KRT18,subset,0.983641252,Cancer LumB SC,Tumor
+0,0.973594194,0.529,0.033,0,Cancer LumB SC,BMPR1B,subset,0.973594194,Cancer LumB SC,Tumor
+0,0.963673873,0.896,0.476,0,Cancer LumB SC,CST3,subset,0.963673873,Cancer LumB SC,Tumor
+0,0.955722523,0.681,0.146,0,Cancer LumB SC,CHPT1,subset,0.955722523,Cancer LumB SC,Tumor
+0,0.95100571,0.643,0.058,0,Cancer LumB SC,C1orf64,subset,0.95100571,Cancer LumB SC,Tumor
+0,0.9492063,0.637,0.187,0,Cancer LumB SC,PRSS23,subset,0.9492063,Cancer LumB SC,Tumor
+0,0.943739771,0.801,0.435,0,Cancer LumB SC,VMP1,subset,0.943739771,Cancer LumB SC,Tumor
+0,0.943474093,0.557,0.041,0,Cancer LumB SC,TMEM150C,subset,0.943474093,Cancer LumB SC,Tumor
+0,0.935997199,0.666,0.131,0,Cancer LumB SC,GPRC5A,subset,0.935997199,Cancer LumB SC,Tumor
+0,0.934261782,0.723,0.338,0,Cancer LumB SC,IFI27,subset,0.934261782,Cancer LumB SC,Tumor
+0,0.910585886,0.807,0.222,0,Cancer LumB SC,ELF3,subset,0.910585886,Cancer LumB SC,Tumor
+0,0.904046849,0.919,0.349,0,Cancer LumB SC,SPINT2,subset,0.904046849,Cancer LumB SC,Tumor
+0,0.903368297,0.76,0.146,0,Cancer LumB SC,MLPH,subset,0.903368297,Cancer LumB SC,Tumor
+0,0.895220064,0.676,0.11,0,Cancer LumB SC,TBC1D9,subset,0.895220064,Cancer LumB SC,Tumor
+0,0.893141666,0.827,0.389,0,Cancer LumB SC,IER3,subset,0.893141666,Cancer LumB SC,Tumor
+0,0.892076946,0.87,0.444,0,Cancer LumB SC,MGP,subset,0.892076946,Cancer LumB SC,Tumor
+0,0.887235165,0.938,0.836,0,Cancer LumB SC,RPL7,subset,0.887235165,Cancer LumB SC,Tumor
+0,0.874494305,0.846,0.517,0,Cancer LumB SC,ANAPC11,subset,0.874494305,Cancer LumB SC,Tumor
+0,0.872415382,0.63,0.062,0,Cancer LumB SC,RAMP1,subset,0.872415382,Cancer LumB SC,Tumor
+0,0.866037318,0.912,0.795,0,Cancer LumB SC,RPL38,subset,0.866037318,Cancer LumB SC,Tumor
+0,0.844006204,0.576,0.099,0,Cancer LumB SC,GADD45G,subset,0.844006204,Cancer LumB SC,Tumor
+5.04e-146,0.839890182,0.236,0.091,1.5e-141,Cancer LumB SC,SCGB1D2,subset,0.839890182,Cancer LumB SC,Tumor
+0,0.820039954,0.843,0.71,0,Cancer LumB SC,RPL23,subset,0.820039954,Cancer LumB SC,Tumor
+0,0.818755867,0.736,0.302,0,Cancer LumB SC,BLVRB,subset,0.818755867,Cancer LumB SC,Tumor
+0,0.81734483,0.835,0.385,0,Cancer LumB SC,DCXR,subset,0.81734483,Cancer LumB SC,Tumor
+0,0.815383643,0.731,0.15,0,Cancer LumB SC,ZG16B,subset,0.815383643,Cancer LumB SC,Tumor
+0,0.812875907,0.746,0.295,0,Cancer LumB SC,MDK,subset,0.812875907,Cancer LumB SC,Tumor
+0,0.807663189,0.895,0.643,0,Cancer LumB SC,COX6A1,subset,0.807663189,Cancer LumB SC,Tumor
+0,0.806854886,0.758,0.308,0,Cancer LumB SC,IL6ST,subset,0.806854886,Cancer LumB SC,Tumor
+0,0.788191254,0.781,0.273,0,Cancer LumB SC,SMIM14,subset,0.788191254,Cancer LumB SC,Tumor
+0,0.786001117,0.588,0.092,0,Cancer LumB SC,MRPL12,subset,0.786001117,Cancer LumB SC,Tumor
+0,0.785665256,0.8,0.485,0,Cancer LumB SC,ATP5H,subset,0.785665256,Cancer LumB SC,Tumor
+0,0.783111932,0.582,0.133,0,Cancer LumB SC,VPS37A,subset,0.783111932,Cancer LumB SC,Tumor
+0,0.781525799,0.162,0.006,0,Cancer LumB SC,CGA,subset,0.781525799,Cancer LumB SC,Tumor
+3.19e-288,0.780893166,0.273,0.069,9.49e-284,Cancer LumB SC,RP11-206M11.7,subset,0.780893166,Cancer LumB SC,Tumor
+0,0.764683979,0.86,0.425,0,Cancer LumB SC,GLUL,subset,0.764683979,Cancer LumB SC,Tumor
+0,0.764372589,0.366,0.02,0,Cancer LumB SC,NPY1R,subset,0.764372589,Cancer LumB SC,Tumor
+0,0.763812109,0.87,0.541,0,Cancer LumB SC,TMEM258,subset,0.763812109,Cancer LumB SC,Tumor
+0,0.757758829,0.753,0.255,0,Cancer LumB SC,H1F0,subset,0.757758829,Cancer LumB SC,Tumor
+0,0.756627272,0.643,0.222,0,Cancer LumB SC,HES1,subset,0.756627272,Cancer LumB SC,Tumor
+0,0.75093647,0.727,0.212,0,Cancer LumB SC,TRPS1,subset,0.75093647,Cancer LumB SC,Tumor
+0,0.740479002,0.564,0.103,0,Cancer LumB SC,SEMA3C,subset,0.740479002,Cancer LumB SC,Tumor
+0,0.740046585,0.638,0.141,0,Cancer LumB SC,NME1,subset,0.740046585,Cancer LumB SC,Tumor
+0,0.732513331,0.567,0.133,0,Cancer LumB SC,ISOC1,subset,0.732513331,Cancer LumB SC,Tumor
+0,0.732398636,0.602,0.208,0,Cancer LumB SC,UGCG,subset,0.732398636,Cancer LumB SC,Tumor
+0,0.728221718,0.547,0.123,0,Cancer LumB SC,RBP1,subset,0.728221718,Cancer LumB SC,Tumor
+2.0599999999999996e-169,0.719799004,0.483,0.263,6.109999999999999e-165,Cancer LumB SC,ADIRF,subset,0.719799004,Cancer LumB SC,Tumor
+0,0.718011655,0.471,0.041,0,Cancer LumB SC,HIST1H2BD,subset,0.718011655,Cancer LumB SC,Tumor
+0,0.710725824,0.877,0.27,0,Cancer LumB SC,KRT8,subset,0.710725824,Cancer LumB SC,Tumor
+0,0.710708283,0.44,0.004,0,Cancer LumB SC,TRH,subset,0.710708283,Cancer LumB SC,Tumor
+0,0.698701976,0.761,0.199,0,Cancer LumB SC,EPCAM,subset,0.698701976,Cancer LumB SC,Tumor
+0,0.695858019,0.648,0.155,0,Cancer LumB SC,UGDH,subset,0.695858019,Cancer LumB SC,Tumor
+0,0.689707382,0.624,0.28,0,Cancer LumB SC,CNOT7,subset,0.689707382,Cancer LumB SC,Tumor
+0,0.686217738,0.687,0.343,0,Cancer LumB SC,SUPT4H1,subset,0.686217738,Cancer LumB SC,Tumor
+0,0.684617841,0.532,0.076,0,Cancer LumB SC,CCDC117,subset,0.684617841,Cancer LumB SC,Tumor
+0,0.682896126,0.802,0.368,0,Cancer LumB SC,NME3,subset,0.682896126,Cancer LumB SC,Tumor
+0,0.681284854,0.544,0.066,0,Cancer LumB SC,ACADSB,subset,0.681284854,Cancer LumB SC,Tumor
+0,0.681081632,0.769,0.404,0,Cancer LumB SC,ATP5I,subset,0.681081632,Cancer LumB SC,Tumor
+0,0.679672905,0.659,0.203,0,Cancer LumB SC,MMP24-AS1,subset,0.679672905,Cancer LumB SC,Tumor
+0,0.674261084,0.695,0.254,0,Cancer LumB SC,HACD3,subset,0.674261084,Cancer LumB SC,Tumor
+0,0.674075166,0.479,0.085,0,Cancer LumB SC,FOXA1,subset,0.674075166,Cancer LumB SC,Tumor

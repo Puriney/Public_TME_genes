@@ -1,0 +1,41 @@
+p_val,avg_logFC,pct.1,pct.2,p_val_adj,cluster,gene,classification tier,avg_strength,cluster0,celltype
+8.75e-45,2.699925094,0.98,0.19,2.5999999999999997e-40,Cycling PVL,ACTA2,subset,2.699925094,Cycling PVL,Peri
+1.6199999999999998e-40,2.288770778,0.96,0.439,4.8300000000000004e-36,Cycling PVL,TIMP1,subset,2.288770778,Cycling PVL,Peri
+6.58e-41,2.195189407,0.82,0.075,1.96e-36,Cycling PVL,NDUFA4L2,subset,2.195189407,Cycling PVL,Peri
+1.5e-39,1.991526112,0.86,0.094,4.4499999999999995e-35,Cycling PVL,THY1,subset,1.991526112,Cycling PVL,Peri
+8.28e-37,1.987108839,0.78,0.066,2.4599999999999997e-32,Cycling PVL,RGS5,subset,1.987108839,Cycling PVL,Peri
+9.909999999999999e-43,1.977122114,0.92,0.127,2.95e-38,Cycling PVL,COL4A2,subset,1.977122114,Cycling PVL,Peri
+2.23e-38,1.944143802,0.84,0.102,6.62e-34,Cycling PVL,COL4A1,subset,1.944143802,Cycling PVL,Peri
+8.9e-40,1.90809671,0.98,0.273,2.6499999999999996e-35,Cycling PVL,CALD1,subset,1.90809671,Cycling PVL,Peri
+5.82e-37,1.890007357,0.86,0.139,1.73e-32,Cycling PVL,COL18A1,subset,1.890007357,Cycling PVL,Peri
+1.2e-40,1.787117055,1,0.216,3.56e-36,Cycling PVL,MYL9,subset,1.787117055,Cycling PVL,Peri
+0,3.157301004,0.952,0.163,0,PVL Differentiated s3,ACTA2,subset,3.157301004,PVL Differentiated s3,Peri
+0,3.032599192,0.95,0.151,0,PVL Differentiated s3,TAGLN,subset,3.032599192,PVL Differentiated s3,Peri
+0,2.942580638,0.949,0.19,0,PVL Differentiated s3,MYL9,subset,2.942580638,PVL Differentiated s3,Peri
+0,2.567542746,0.896,0.156,0,PVL Differentiated s3,TPM2,subset,2.567542746,PVL Differentiated s3,Peri
+0,2.327114879,0.771,0.05,0,PVL Differentiated s3,NDUFA4L2,subset,2.327114879,PVL Differentiated s3,Peri
+0,2.291963364,0.846,0.086,0,PVL Differentiated s3,SOD3,subset,2.291963364,PVL Differentiated s3,Peri
+0,2.251367368,0.928,0.247,0,PVL Differentiated s3,ADIRF,subset,2.251367368,PVL Differentiated s3,Peri
+0,2.168395467,0.639,0.02,0,PVL Differentiated s3,MYH11,subset,2.168395467,PVL Differentiated s3,Peri
+0,2.154970778,0.596,0.047,0,PVL Differentiated s3,RGS5,subset,2.154970778,PVL Differentiated s3,Peri
+0,2.134034225,0.538,0.009,0,PVL Differentiated s3,RERGL,subset,2.134034225,PVL Differentiated s3,Peri
+0,3.580799824,0.426,0.022,0,PVL Immature s1,CCL19,subset,3.580799824,PVL Immature s1,Peri
+0,2.652190348,0.664,0.131,0,PVL Immature s1,CCL2,subset,2.652190348,PVL Immature s1,Peri
+0,2.633707712,0.447,0.01,0,PVL Immature s1,CCL21,subset,2.633707712,PVL Immature s1,Peri
+0,2.424021905,0.754,0.058,0,PVL Immature s1,RGS5,subset,2.424021905,PVL Immature s1,Peri
+0,2.199113988,0.981,0.285,0,PVL Immature s1,IGFBP7,subset,2.199113988,PVL Immature s1,Peri
+0,2.04674502,0.651,0.178,0,PVL Immature s1,IGFBP5,subset,2.04674502,PVL Immature s1,Peri
+0,2.045035565,0.935,0.265,0,PVL Immature s1,CALD1,subset,2.045035565,PVL Immature s1,Peri
+0,2.040519637,0.856,0.171,0,PVL Immature s1,TAGLN,subset,2.040519637,PVL Immature s1,Peri
+0,1.897821448,0.818,0.183,0,PVL Immature s1,ACTA2,subset,1.897821448,PVL Immature s1,Peri
+0,1.878255954,0.903,0.209,0,PVL Immature s1,MYL9,subset,1.878255954,PVL Immature s1,Peri
+0,3.418452534,0.955,0.06,0,PVL Immature s2,RGS5,subset,3.418452534,PVL_Immature s2,Peri
+0,2.626689969,0.923,0.069,0,PVL Immature s2,NDUFA4L2,subset,2.626689969,PVL_Immature s2,Peri
+0,2.225106825,0.821,0.134,0,PVL Immature s2,COL18A1,subset,2.225106825,PVL_Immature s2,Peri
+0,2.207325644,0.987,0.288,0,PVL Immature s2,IGFBP7,subset,2.207325644,PVL_Immature s2,Peri
+0,2.195251249,0.787,0.089,0,PVL Immature s2,THY1,subset,2.195251249,PVL_Immature s2,Peri
+0,2.04804064,0.978,0.234,0,PVL Immature s2,SPARC,subset,2.04804064,PVL_Immature s2,Peri
+0,2.045919204,0.868,0.137,0,PVL Immature s2,LHFP,subset,2.045919204,PVL_Immature s2,Peri
+0,2.022007325,0.824,0.113,0,PVL Immature s2,CPE,subset,2.022007325,PVL_Immature s2,Peri
+0,1.989362566,0.717,0.098,0,PVL Immature s2,COL4A1,subset,1.989362566,PVL_Immature s2,Peri
+0,1.951752824,0.76,0.025,0,PVL Immature s2,HIGD1B,subset,1.951752824,PVL_Immature s2,Peri

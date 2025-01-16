@@ -1,0 +1,201 @@
+p_val,avg_logFC,pct.1,pct.2,p_val_adj,cluster,gene,classification tier,avg_strength,cluster0,celltype
+0,3.527849678,0.907,0.023,0,Endothelial ACKR1,ACKR1,subset,3.527849678,Endothelial ACKR1,Endo
+0,2.574787336,0.934,0.045,0,Endothelial ACKR1,PLVAP,subset,2.574787336,Endothelial ACKR1,Endo
+0,2.381228054,0.9,0.032,0,Endothelial ACKR1,VWF,subset,2.381228054,Endothelial ACKR1,Endo
+0,2.317007186,0.859,0.051,0,Endothelial ACKR1,AQP1,subset,2.317007186,Endothelial ACKR1,Endo
+0,2.150580797,0.959,0.184,0,Endothelial ACKR1,SPARCL1,subset,2.150580797,Endothelial ACKR1,Endo
+0,2.041115486,0.84,0.032,0,Endothelial ACKR1,RAMP3,subset,2.041115486,Endothelial ACKR1,Endo
+0,1.988595766,0.868,0.083,0,Endothelial ACKR1,RAMP2,subset,1.988595766,Endothelial ACKR1,Endo
+0,1.982914466,0.877,0.135,0,Endothelial ACKR1,ENG,subset,1.982914466,Endothelial ACKR1,Endo
+0,1.938070676,0.589,0.068,0,Endothelial ACKR1,FABP4,subset,1.938070676,Endothelial ACKR1,Endo
+0,1.910356196,0.871,0.097,0,Endothelial ACKR1,PECAM1,subset,1.910356196,Endothelial ACKR1,Endo
+0,1.879733536,0.784,0.113,0,Endothelial ACKR1,SPRY1,subset,1.879733536,Endothelial ACKR1,Endo
+0,1.724410851,0.775,0.089,0,Endothelial ACKR1,EGFL7,subset,1.724410851,Endothelial ACKR1,Endo
+0,1.720504977,0.981,0.26,0,Endothelial ACKR1,IGFBP7,subset,1.720504977,Endothelial ACKR1,Endo
+0,1.699525266,0.661,0.032,0,Endothelial ACKR1,CLDN5,subset,1.699525266,Endothelial ACKR1,Endo
+0,1.680357832,0.876,0.268,0,Endothelial ACKR1,NPDC1,subset,1.680357832,Endothelial ACKR1,Endo
+0,1.664674231,0.797,0.03,0,Endothelial ACKR1,EMCN,subset,1.664674231,Endothelial ACKR1,Endo
+0,1.662553937,0.915,0.287,0,Endothelial ACKR1,IGFBP4,subset,1.662553937,Endothelial ACKR1,Endo
+0,1.645349989,0.799,0.199,0,Endothelial ACKR1,PRCP,subset,1.645349989,Endothelial ACKR1,Endo
+0,1.634780691,0.827,0.086,0,Endothelial ACKR1,HSPG2,subset,1.634780691,Endothelial ACKR1,Endo
+0,1.613276729,0.846,0.117,0,Endothelial ACKR1,GNG11,subset,1.613276729,Endothelial ACKR1,Endo
+0,1.606781964,0.44,0.004,0,Endothelial ACKR1,SELE,subset,1.606781964,Endothelial ACKR1,Endo
+0,1.569981528,0.829,0.274,0,Endothelial ACKR1,PDLIM1,subset,1.569981528,Endothelial ACKR1,Endo
+0,1.565081658,0.935,0.543,0,Endothelial ACKR1,FKBP1A,subset,1.565081658,Endothelial ACKR1,Endo
+0,1.558021474,0.773,0.028,0,Endothelial ACKR1,ADGRL4,subset,1.558021474,Endothelial ACKR1,Endo
+0,1.542887194,0.697,0.038,0,Endothelial ACKR1,CALCRL,subset,1.542887194,Endothelial ACKR1,Endo
+0,1.506457884,0.723,0.155,0,Endothelial ACKR1,PDK4,subset,1.506457884,Endothelial ACKR1,Endo
+0,1.493709836,0.635,0.033,0,Endothelial ACKR1,SDPR,subset,1.493709836,Endothelial ACKR1,Endo
+0,1.481359483,0.864,0.096,0,Endothelial ACKR1,RNASE1,subset,1.481359483,Endothelial ACKR1,Endo
+0,1.461247689,0.693,0.028,0,Endothelial ACKR1,ZNF385D,subset,1.461247689,Endothelial ACKR1,Endo
+0,1.455425971,0.74,0.033,0,Endothelial ACKR1,CLEC14A,subset,1.455425971,Endothelial ACKR1,Endo
+0,1.446341705,0.854,0.166,0,Endothelial ACKR1,A2M,subset,1.446341705,Endothelial ACKR1,Endo
+0,1.43352691,0.833,0.357,0,Endothelial ACKR1,SOCS3,subset,1.43352691,Endothelial ACKR1,Endo
+0,1.409246507,0.978,0.552,0,Endothelial ACKR1,IFITM3,subset,1.409246507,Endothelial ACKR1,Endo
+0,1.394110662,0.706,0.041,0,Endothelial ACKR1,CD34,subset,1.394110662,Endothelial ACKR1,Endo
+0,1.386189009,0.683,0.05,0,Endothelial ACKR1,COL15A1,subset,1.386189009,Endothelial ACKR1,Endo
+0,1.384260847,0.616,0.02,0,Endothelial ACKR1,TSPAN7,subset,1.384260847,Endothelial ACKR1,Endo
+0,1.371096794,0.7,0.227,0,Endothelial ACKR1,CLU,subset,1.371096794,Endothelial ACKR1,Endo
+0,1.368808936,0.963,0.322,0,Endothelial ACKR1,IFI27,subset,1.368808936,Endothelial ACKR1,Endo
+0,1.363300859,0.704,0.019,0,Endothelial ACKR1,CXorf36,subset,1.363300859,Endothelial ACKR1,Endo
+0,1.350271433,0.799,0.321,0,Endothelial ACKR1,DUSP23,subset,1.350271433,Endothelial ACKR1,Endo
+0,1.34842454,0.595,0.035,0,Endothelial ACKR1,ADAMTS9,subset,1.34842454,Endothelial ACKR1,Endo
+0,1.341808918,0.753,0.063,0,Endothelial ACKR1,ESAM,subset,1.341808918,Endothelial ACKR1,Endo
+0,1.336488016,0.659,0.135,0,Endothelial ACKR1,ID1,subset,1.336488016,Endothelial ACKR1,Endo
+0,1.332555387,0.562,0.102,0,Endothelial ACKR1,HYAL2,subset,1.332555387,Endothelial ACKR1,Endo
+0,1.324788427,0.758,0.194,0,Endothelial ACKR1,EMP1,subset,1.324788427,Endothelial ACKR1,Endo
+0,1.316474797,0.619,0.055,0,Endothelial ACKR1,MCTP1,subset,1.316474797,Endothelial ACKR1,Endo
+0,1.300337649,0.501,0.114,0,Endothelial ACKR1,RCAN1,subset,1.300337649,Endothelial ACKR1,Endo
+0,1.298711986,0.784,0.23,0,Endothelial ACKR1,BCAM,subset,1.298711986,Endothelial ACKR1,Endo
+0,1.292065238,0.648,0.034,0,Endothelial ACKR1,IL33,subset,1.292065238,Endothelial ACKR1,Endo
+0,1.284899384,0.753,0.188,0,Endothelial ACKR1,ETS2,subset,1.284899384,Endothelial ACKR1,Endo
+0,2.771325634,0.718,0.058,0,Endothelial CXCL12,IGFBP3,subset,2.771325634,Endothelial CXCL12,Endo
+0,2.598325501,0.655,0.082,0,Endothelial CXCL12,FABP4,subset,2.598325501,Endothelial CXCL12,Endo
+0,2.554696319,0.779,0.049,0,Endothelial CXCL12,CLDN5,subset,2.554696319,Endothelial CXCL12,Endo
+0,2.471471115,0.915,0.106,0,Endothelial CXCL12,RAMP2,subset,2.471471115,Endothelial CXCL12,Endo
+0,2.312721328,0.833,0.119,0,Endothelial CXCL12,SLC9A3R2,subset,2.312721328,Endothelial CXCL12,Endo
+0,2.254035668,0.839,0.157,0,Endothelial CXCL12,PLPP1,subset,2.254035668,Endothelial CXCL12,Endo
+0,2.199939892,0.934,0.185,0,Endothelial CXCL12,A2M,subset,2.199939892,Endothelial CXCL12,Endo
+0,2.197982452,0.89,0.198,0,Endothelial CXCL12,CAV1,subset,2.197982452,Endothelial CXCL12,Endo
+0,2.034959948,0.877,0.138,0,Endothelial CXCL12,GNG11,subset,2.034959948,Endothelial CXCL12,Endo
+0,2.026340108,0.819,0.053,0,Endothelial CXCL12,CLEC14A,subset,2.026340108,Endothelial CXCL12,Endo
+0,2.008541093,0.587,0.073,0,Endothelial CXCL12,RBP7,subset,2.008541093,Endothelial CXCL12,Endo
+0,1.928275839,0.583,0.1,0,Endothelial CXCL12,C10orf10,subset,1.928275839,Endothelial CXCL12,Endo
+0,1.92024121,0.904,0.291,0,Endothelial CXCL12,TM4SF1,subset,1.92024121,Endothelial CXCL12,Endo
+0,1.890965819,0.773,0.149,0,Endothelial CXCL12,ID1,subset,1.890965819,Endothelial CXCL12,Endo
+0,1.821340271,0.817,0.109,0,Endothelial CXCL12,EGFL7,subset,1.821340271,Endothelial CXCL12,Endo
+0,1.812379137,0.715,0.1,0,Endothelial CXCL12,CXCL12,subset,1.812379137,Endothelial CXCL12,Endo
+0,1.802778123,0.824,0.083,0,Endothelial CXCL12,ESAM,subset,1.802778123,Endothelial CXCL12,Endo
+0,1.789131165,0.833,0.121,0,Endothelial CXCL12,PECAM1,subset,1.789131165,Endothelial CXCL12,Endo
+0,1.780874059,0.977,0.341,0,Endothelial CXCL12,IFI27,subset,1.780874059,Endothelial CXCL12,Endo
+0,1.764280211,0.804,0.121,0,Endothelial CXCL12,ICAM2,subset,1.764280211,Endothelial CXCL12,Endo
+0,1.76077413,0.678,0.046,0,Endothelial CXCL12,GJA4,subset,1.76077413,Endothelial CXCL12,Endo
+0,1.744693106,0.724,0.11,0,Endothelial CXCL12,HSPG2,subset,1.744693106,Endothelial CXCL12,Endo
+0,1.710971137,0.714,0.062,0,Endothelial CXCL12,PODXL,subset,1.710971137,Endothelial CXCL12,Endo
+0,1.641607764,0.651,0.032,0,Endothelial CXCL12,HEY1,subset,1.641607764,Endothelial CXCL12,Endo
+0,1.636077726,0.966,0.804,0,Endothelial CXCL12,SRP14,subset,1.636077726,Endothelial CXCL12,Endo
+0,1.609771439,0.841,0.305,0,Endothelial CXCL12,STOM,subset,1.609771439,Endothelial CXCL12,Endo
+0,1.597548316,0.759,0.054,0,Endothelial CXCL12,EMCN,subset,1.597548316,Endothelial CXCL12,Endo
+0,1.585618579,0.793,0.163,0,Endothelial CXCL12,EPAS1,subset,1.585618579,Endothelial CXCL12,Endo
+0,1.585269743,0.645,0.047,0,Endothelial CXCL12,FLT1,subset,1.585269743,Endothelial CXCL12,Endo
+0,1.56631869,0.597,0.051,0,Endothelial CXCL12,IGF2,subset,1.56631869,Endothelial CXCL12,Endo
+0,1.548778892,0.979,0.565,0,Endothelial CXCL12,IFITM3,subset,1.548778892,Endothelial CXCL12,Endo
+0,1.547274361,0.922,0.353,0,Endothelial CXCL12,CRIP2,subset,1.547274361,Endothelial CXCL12,Endo
+0,1.540537378,0.886,0.119,0,Endothelial CXCL12,RNASE1,subset,1.540537378,Endothelial CXCL12,Endo
+0,1.539598852,0.746,0.051,0,Endothelial CXCL12,ADGRL4,subset,1.539598852,Endothelial CXCL12,Endo
+0,1.531428061,0.67,0.034,0,Endothelial CXCL12,NOTCH4,subset,1.531428061,Endothelial CXCL12,Endo
+0,1.524348167,0.784,0.159,0,Endothelial CXCL12,ENG,subset,1.524348167,Endothelial CXCL12,Endo
+0,1.513035841,0.699,0.081,0,Endothelial CXCL12,PALMD,subset,1.513035841,Endothelial CXCL12,Endo
+0,1.512374596,0.588,0.115,0,Endothelial CXCL12,KCTD12,subset,1.512374596,Endothelial CXCL12,Endo
+0,1.493159048,0.613,0.026,0,Endothelial CXCL12,SOX17,subset,1.493159048,Endothelial CXCL12,Endo
+0,1.486332143,0.502,0.079,0,Endothelial CXCL12,EDN1,subset,1.486332143,Endothelial CXCL12,Endo
+0,1.468821274,0.582,0.077,0,Endothelial CXCL12,PLVAP,subset,1.468821274,Endothelial CXCL12,Endo
+0,1.468760316,0.489,0.014,0,Endothelial CXCL12,BTNL9,subset,1.468760316,Endothelial CXCL12,Endo
+0,1.462032703,0.69,0.061,0,Endothelial CXCL12,CD34,subset,1.462032703,Endothelial CXCL12,Endo
+0,1.46115238,0.897,0.209,0,Endothelial CXCL12,SPARCL1,subset,1.46115238,Endothelial CXCL12,Endo
+0,1.457026774,0.459,0.047,0,Endothelial CXCL12,STC1,subset,1.457026774,Endothelial CXCL12,Endo
+0,1.449467849,0.819,0.287,0,Endothelial CXCL12,NPDC1,subset,1.449467849,Endothelial CXCL12,Endo
+0,1.446715175,0.675,0.035,0,Endothelial CXCL12,CDH5,subset,1.446715175,Endothelial CXCL12,Endo
+0,1.445292795,0.655,0.044,0,Endothelial CXCL12,ADGRF5,subset,1.445292795,Endothelial CXCL12,Endo
+0,1.437944196,0.644,0.079,0,Endothelial CXCL12,AQP1,subset,1.437944196,Endothelial CXCL12,Endo
+0,1.436942765,0.504,0.095,0,Endothelial CXCL12,INSR,subset,1.436942765,Endothelial CXCL12,Endo
+5.84e-261,4.393208427,0.611,0.014,1.74e-256,Endothelial Lymphatic LYVE1,CCL21,subset,4.393208427,Endothelial Lymphatic LYVE1,Endo
+3.54e-114,2.702672955,0.645,0.091,1.0499999999999999e-109,Endothelial Lymphatic LYVE1,FABP4,subset,2.702672955,Endothelial Lymphatic LYVE1,Endo
+9.779999999999999e-179,2.370925458,0.64,0.114,2.9099999999999995e-174,Endothelial Lymphatic LYVE1,TFPI,subset,2.370925458,Endothelial Lymphatic LYVE1,Endo
+3.8999999999999996e-135,2.351993456,0.576,0.131,1.1599999999999999e-130,Endothelial Lymphatic LYVE1,TFF3,subset,2.351993456,Endothelial Lymphatic LYVE1,Endo
+2.0699999999999995e-130,2.228646094,0.502,0.082,6.15e-126,Endothelial Lymphatic LYVE1,EFEMP1,subset,2.228646094,Endothelial Lymphatic LYVE1,Endo
+1.29e-219,2.034118346,0.537,0.012,3.839999999999999e-215,Endothelial Lymphatic LYVE1,MMRN1,subset,2.034118346,Endothelial Lymphatic LYVE1,Endo
+5.099999999999999e-148,2.011545044,0.798,0.149,1.5199999999999997e-143,Endothelial Lymphatic LYVE1,GNG11,subset,2.011545044,Endothelial Lymphatic LYVE1,Endo
+3.07e-116,1.852471524,0.754,0.118,9.139999999999998e-112,Endothelial Lymphatic LYVE1,RAMP2,subset,1.852471524,Endothelial Lymphatic LYVE1,Endo
+2.0899999999999998e-118,1.771010844,0.611,0.059,6.22e-114,Endothelial Lymphatic LYVE1,SDPR,subset,1.771010844,Endothelial Lymphatic LYVE1,Endo
+8.929999999999999e-96,1.728060092,0.606,0.06,2.6600000000000004e-91,Endothelial Lymphatic LYVE1,CLDN5,subset,1.728060092,Endothelial Lymphatic LYVE1,Endo
+7.63e-71,1.716703374,0.158,0.001,2.2699999999999997e-66,Endothelial Lymphatic LYVE1,NTS,subset,1.716703374,Endothelial Lymphatic LYVE1,Endo
+7.89e-80,1.669215913,0.754,0.208,2.35e-75,Endothelial Lymphatic LYVE1,CAV1,subset,1.669215913,Endothelial Lymphatic LYVE1,Endo
+4.2199999999999997e-72,1.648337293,0.719,0.287,1.25e-67,Endothelial Lymphatic LYVE1,FABP5,subset,1.648337293,Endothelial Lymphatic LYVE1,Endo
+7.44e-164,1.590105308,0.616,0.149,2.2099999999999997e-159,Endothelial Lymphatic LYVE1,PPFIBP1,subset,1.590105308,Endothelial Lymphatic LYVE1,Endo
+1.1099999999999999e-95,1.553352721,0.453,0.062,3.3e-91,Endothelial Lymphatic LYVE1,AKAP12,subset,1.553352721,Endothelial Lymphatic LYVE1,Endo
+1.47e-102,1.540691142,0.719,0.119,4.36e-98,Endothelial Lymphatic LYVE1,EGFL7,subset,1.540691142,Endothelial Lymphatic LYVE1,Endo
+5.48e-80,1.464280293,0.414,0.031,1.63e-75,Endothelial Lymphatic LYVE1,ECSCR.1,subset,1.464280293,Endothelial Lymphatic LYVE1,Endo
+1.9599999999999998e-57,1.434791359,0.493,0.131,5.82e-53,Endothelial Lymphatic LYVE1,RCAN1,subset,1.434791359,Endothelial Lymphatic LYVE1,Endo
+8.780000000000001e-70,1.415208159,0.714,0.403,2.61e-65,Endothelial Lymphatic LYVE1,CD9,subset,1.415208159,Endothelial Lymphatic LYVE1,Endo
+1.51e-98,1.38733364,0.562,0.095,4.48e-94,Endothelial Lymphatic LYVE1,NRP2,subset,1.38733364,Endothelial Lymphatic LYVE1,Endo
+2.15e-154,1.360391724,0.399,0.01,6.38e-150,Endothelial Lymphatic LYVE1,PROX1,subset,1.360391724,Endothelial Lymphatic LYVE1,Endo
+3.0299999999999994e-101,1.346261988,0.956,0.292,9e-97,Endothelial Lymphatic LYVE1,IGFBP7,subset,1.346261988,Endothelial Lymphatic LYVE1,Endo
+2.9899999999999998e-95,1.327958852,0.828,0.474,8.890000000000001e-91,Endothelial Lymphatic LYVE1,CD59,subset,1.327958852,Endothelial Lymphatic LYVE1,Endo
+6.21e-84,1.313371842,0.596,0.122,1.85e-79,Endothelial Lymphatic LYVE1,HYAL2,subset,1.313371842,Endothelial Lymphatic LYVE1,Endo
+4.02e-77,1.278443968,0.828,0.319,1.1899999999999998e-72,Endothelial Lymphatic LYVE1,STMN1,subset,1.278443968,Endothelial Lymphatic LYVE1,Endo
+3.55e-90,1.272433935,0.719,0.226,1.05e-85,Endothelial Lymphatic LYVE1,SPTBN1,subset,1.272433935,Endothelial Lymphatic LYVE1,Endo
+3.5299999999999997e-47,1.249936299,0.537,0.159,1.0499999999999999e-42,Endothelial Lymphatic LYVE1,ID1,subset,1.249936299,Endothelial Lymphatic LYVE1,Endo
+1.8799999999999997e-42,1.242930543,0.517,0.172,5.6e-38,Endothelial Lymphatic LYVE1,RGS16,subset,1.242930543,Endothelial Lymphatic LYVE1,Endo
+6.26e-58,1.237414445,0.286,0.017,1.86e-53,Endothelial Lymphatic LYVE1,LYVE1,subset,1.237414445,Endothelial Lymphatic LYVE1,Endo
+1.37e-75,1.232478522,0.552,0.067,4.08e-71,Endothelial Lymphatic LYVE1,CALCRL,subset,1.232478522,Endothelial Lymphatic LYVE1,Endo
+1.2999999999999999e-104,1.223231856,0.463,0.03,3.85e-100,Endothelial Lymphatic LYVE1,PDPN,subset,1.223231856,Endothelial Lymphatic LYVE1,Endo
+3.82e-45,1.202156785,0.355,0.058,1.1399999999999999e-40,Endothelial Lymphatic LYVE1,ANGPT2,subset,1.202156785,Endothelial Lymphatic LYVE1,Endo
+9.850000000000001e-58,1.193568881,0.498,0.094,2.93e-53,Endothelial Lymphatic LYVE1,THBD,subset,1.193568881,Endothelial Lymphatic LYVE1,Endo
+2.12e-66,1.192653626,0.847,0.669,6.3e-62,Endothelial Lymphatic LYVE1,S100A10,subset,1.192653626,Endothelial Lymphatic LYVE1,Endo
+1.94e-76,1.143799401,0.773,0.377,5.769999999999999e-72,Endothelial Lymphatic LYVE1,APP,subset,1.143799401,Endothelial Lymphatic LYVE1,Endo
+1.6399999999999998e-95,1.126635289,0.576,0.05,4.8800000000000004e-91,Endothelial Lymphatic LYVE1,CXorf36,subset,1.126635289,Endothelial Lymphatic LYVE1,Endo
+4.72e-72,1.111428086,0.675,0.132,1.3999999999999999e-67,Endothelial Lymphatic LYVE1,PECAM1,subset,1.111428086,Endothelial Lymphatic LYVE1,Endo
+1.0600000000000001e-85,1.110014872,0.606,0.071,3.15e-81,Endothelial Lymphatic LYVE1,VWF,subset,1.110014872,Endothelial Lymphatic LYVE1,Endo
+7.42e-70,1.108291222,0.621,0.228,2.2000000000000002e-65,Endothelial Lymphatic LYVE1,MGST2,subset,1.108291222,Endothelial Lymphatic LYVE1,Endo
+1.21e-98,1.106633533,0.488,0.036,3.5999999999999996e-94,Endothelial Lymphatic LYVE1,KANK3,subset,1.106633533,Endothelial Lymphatic LYVE1,Endo
+1.8199999999999998e-56,1.099510999,0.951,0.71,5.42e-52,Endothelial Lymphatic LYVE1,VIM,subset,1.099510999,Endothelial Lymphatic LYVE1,Endo
+7.989999999999999e-89,1.09286512,0.739,0.416,2.38e-84,Endothelial Lymphatic LYVE1,RAB11A,subset,1.09286512,Endothelial Lymphatic LYVE1,Endo
+9.509999999999999e-68,1.091124456,0.645,0.2,2.83e-63,Endothelial Lymphatic LYVE1,ARHGAP29,subset,1.091124456,Endothelial Lymphatic LYVE1,Endo
+2e-52,1.084723009,0.768,0.3,5.95e-48,Endothelial Lymphatic LYVE1,TM4SF1,subset,1.084723009,Endothelial Lymphatic LYVE1,Endo
+1.2399999999999998e-55,1.083106823,0.552,0.102,3.68e-51,Endothelial Lymphatic LYVE1,COL4A1,subset,1.083106823,Endothelial Lymphatic LYVE1,Endo
+2.36e-80,1.071615635,0.507,0.062,7.03e-76,Endothelial Lymphatic LYVE1,TM4SF18,subset,1.071615635,Endothelial Lymphatic LYVE1,Endo
+4.33e-65,1.065558571,0.847,0.59,1.29e-60,Endothelial Lymphatic LYVE1,ANXA2,subset,1.065558571,Endothelial Lymphatic LYVE1,Endo
+2.8e-56,1.060354418,0.571,0.151,8.32e-52,Endothelial Lymphatic LYVE1,FSCN1,subset,1.060354418,Endothelial Lymphatic LYVE1,Endo
+2.03e-40,1.040729345,0.571,0.219,6.030000000000001e-36,Endothelial Lymphatic LYVE1,EMP1,subset,1.040729345,Endothelial Lymphatic LYVE1,Endo
+1.28e-94,1.038217885,0.522,0.038,3.7999999999999997e-90,Endothelial Lymphatic LYVE1,TIE1,subset,1.038217885,Endothelial Lymphatic LYVE1,Endo
+0,2.579132485,0.494,0.087,0,Endothelial RGS5,FABP4,subset,2.579132485,Endothelial RGS5,Endo
+0,2.426492984,0.935,0.076,0,Endothelial RGS5,PLVAP,subset,2.426492984,Endothelial RGS5,Endo
+0,2.155999578,0.705,0.075,0,Endothelial RGS5,RBP7,subset,2.155999578,Endothelial RGS5,Endo
+0,2.101729585,0.805,0.095,0,Endothelial RGS5,COL4A1,subset,2.101729585,Endothelial RGS5,Endo
+0,2.091396955,0.874,0.111,0,Endothelial RGS5,HSPG2,subset,2.091396955,Endothelial RGS5,Endo
+0,2.007625583,0.88,0.111,0,Endothelial RGS5,RAMP2,subset,2.007625583,Endothelial RGS5,Endo
+0,1.962899216,0.855,0.119,0,Endothelial RGS5,COL4A2,subset,1.962899216,Endothelial RGS5,Endo
+0,1.921692216,0.897,0.142,0,Endothelial RGS5,GNG11,subset,1.921692216,Endothelial RGS5,Endo
+0,1.896714909,0.848,0.112,0,Endothelial RGS5,EGFL7,subset,1.896714909,Endothelial RGS5,Endo
+0,1.758547403,0.873,0.19,0,Endothelial RGS5,A2M,subset,1.758547403,Endothelial RGS5,Endo
+0,1.75615901,0.984,0.285,0,Endothelial RGS5,IGFBP7,subset,1.75615901,Endothelial RGS5,Endo
+0,1.749267473,0.818,0.064,0,Endothelial RGS5,VWF,subset,1.749267473,Endothelial RGS5,Endo
+0,1.72007263,0.953,0.212,0,Endothelial RGS5,SPARCL1,subset,1.72007263,Endothelial RGS5,Endo
+0,1.712033823,0.744,0.06,0,Endothelial RGS5,CALCRL,subset,1.712033823,Endothelial RGS5,Endo
+0,1.706606232,0.763,0.08,0,Endothelial RGS5,AQP1,subset,1.706606232,Endothelial RGS5,Endo
+0,1.669471082,0.823,0.087,0,Endothelial RGS5,ESAM,subset,1.669471082,Endothelial RGS5,Endo
+0,1.643218441,0.535,0.069,0,Endothelial RGS5,CD36,subset,1.643218441,Endothelial RGS5,Endo
+0,1.635008548,0.727,0.162,0,Endothelial RGS5,PLPP1,subset,1.635008548,Endothelial RGS5,Endo
+0,1.610404784,0.724,0.062,0,Endothelial RGS5,RAMP3,subset,1.610404784,Endothelial RGS5,Endo
+0,1.600964726,0.954,0.231,0,Endothelial RGS5,SPARC,subset,1.600964726,Endothelial RGS5,Endo
+0,1.598594674,0.773,0.071,0,Endothelial RGS5,COL15A1,subset,1.598594674,Endothelial RGS5,Endo
+0,1.595409834,0.827,0.162,0,Endothelial RGS5,ENG,subset,1.595409834,Endothelial RGS5,Endo
+0,1.589628772,0.807,0.054,0,Endothelial RGS5,ADGRL4,subset,1.589628772,Endothelial RGS5,Endo
+0,1.578164601,0.818,0.136,0,Endothelial RGS5,SPRY1,subset,1.578164601,Endothelial RGS5,Endo
+0,1.564868367,0.813,0.125,0,Endothelial RGS5,PECAM1,subset,1.564868367,Endothelial RGS5,Endo
+0,1.559340946,0.731,0.153,0,Endothelial RGS5,ID1,subset,1.559340946,Endothelial RGS5,Endo
+0,1.557663034,0.765,0.063,0,Endothelial RGS5,CD34,subset,1.557663034,Endothelial RGS5,Endo
+0,1.555808897,0.775,0.057,0,Endothelial RGS5,CLEC14A,subset,1.555808897,Endothelial RGS5,Endo
+0,1.506524418,0.896,0.371,0,Endothelial RGS5,GSN,subset,1.506524418,Endothelial RGS5,Endo
+0,1.503883762,0.683,0.05,0,Endothelial RGS5,FLT1,subset,1.503883762,Endothelial RGS5,Endo
+0,1.486711363,0.628,0.054,0,Endothelial RGS5,CLDN5,subset,1.486711363,Endothelial RGS5,Endo
+0,1.472904542,0.657,0.092,0,Endothelial RGS5,VWA1,subset,1.472904542,Endothelial RGS5,Endo
+0,1.470591906,0.666,0.124,0,Endothelial RGS5,SLC9A3R2,subset,1.470591906,Endothelial RGS5,Endo
+0,1.455535986,0.801,0.202,0,Endothelial RGS5,CAV1,subset,1.455535986,Endothelial RGS5,Endo
+0,1.443896771,0.239,0.005,0,Endothelial RGS5,ESM1,subset,1.443896771,Endothelial RGS5,Endo
+0,1.440126864,0.759,0.058,0,Endothelial RGS5,EMCN,subset,1.440126864,Endothelial RGS5,Endo
+0,1.416197123,0.824,0.193,0,Endothelial RGS5,TCF4,subset,1.416197123,Endothelial RGS5,Endo
+0,1.405539676,0.585,0.097,0,Endothelial RGS5,INSR,subset,1.405539676,Endothelial RGS5,Endo
+0,1.4032123,0.646,0.066,0,Endothelial RGS5,PODXL,subset,1.4032123,Endothelial RGS5,Endo
+0,1.38773858,0.812,0.194,0,Endothelial RGS5,ARHGAP29,subset,1.38773858,Endothelial RGS5,Endo
+0,1.366627905,0.934,0.356,0,Endothelial RGS5,CRIP2,subset,1.366627905,Endothelial RGS5,Endo
+0,1.343110529,0.671,0.037,0,Endothelial RGS5,NOTCH4,subset,1.343110529,Endothelial RGS5,Endo
+1.5999999999999999e-195,1.318749351,0.357,0.063,4.75e-191,Endothelial RGS5,RGS5,subset,1.318749351,Endothelial RGS5,Endo
+0,1.313840165,0.645,0.056,0,Endothelial RGS5,TM4SF18,subset,1.313840165,Endothelial RGS5,Endo
+0,1.295580437,0.66,0.177,0,Endothelial RGS5,MGLL,subset,1.295580437,Endothelial RGS5,Endo
+0,1.280398553,0.841,0.317,0,Endothelial RGS5,ID3,subset,1.280398553,Endothelial RGS5,Endo
+0,1.274557928,0.714,0.085,0,Endothelial RGS5,CD93,subset,1.274557928,Endothelial RGS5,Endo
+0,1.2742705,0.618,0.021,0,Endothelial RGS5,KDR,subset,1.2742705,Endothelial RGS5,Endo
+0,1.272524748,0.616,0.118,0,Endothelial RGS5,HYAL2,subset,1.272524748,Endothelial RGS5,Endo
+0,1.260176202,0.833,0.428,0,Endothelial RGS5,CCDC85B,subset,1.260176202,Endothelial RGS5,Endo

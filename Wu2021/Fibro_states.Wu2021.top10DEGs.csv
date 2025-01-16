@@ -1,0 +1,51 @@
+p_val,avg_logFC,pct.1,pct.2,p_val_adj,cluster,gene,classification tier,avg_strength,cluster0,celltype
+0,3.416213184,0.914,0.169,0,CAFs MSC iCAF like s1,APOD,subset,3.416213184,CAFs MSC iCAF-like s1,Fibro
+0,3.371818484,0.994,0.096,0,CAFs MSC iCAF like s1,DCN,subset,3.371818484,CAFs MSC iCAF-like s1,Fibro
+0,2.824603381,0.583,0.159,0,CAFs MSC iCAF like s1,CFD,subset,2.824603381,CAFs MSC iCAF-like s1,Fibro
+0,2.673538913,0.596,0.044,0,CAFs MSC iCAF like s1,PTGDS,subset,2.673538913,CAFs MSC iCAF-like s1,Fibro
+0,2.483910393,0.94,0.082,0,CAFs MSC iCAF like s1,LUM,subset,2.483910393,CAFs MSC iCAF-like s1,Fibro
+0,2.434943554,0.655,0.073,0,CAFs MSC iCAF like s1,C3,subset,2.434943554,CAFs MSC iCAF-like s1,Fibro
+0,2.41881473,0.858,0.058,0,CAFs MSC iCAF like s1,SFRP2,subset,2.41881473,CAFs MSC iCAF-like s1,Fibro
+0,2.39890398,0.949,0.117,0,CAFs MSC iCAF like s1,C1S,subset,2.39890398,CAFs MSC iCAF-like s1,Fibro
+0,2.303799886,0.557,0.052,0,CAFs MSC iCAF like s1,CXCL14,subset,2.303799886,CAFs MSC iCAF-like s1,Fibro
+0,2.299170852,0.801,0.075,0,CAFs MSC iCAF like s1,CCDC80,subset,2.299170852,CAFs MSC iCAF-like s1,Fibro
+0,3.095187595,0.706,0.182,0,CAFs MSC iCAF like s2,APOD,subset,3.095187595,CAFs MSC iCAF-like s2,Fibro
+4.6e-95,2.19387646,0.158,0.026,1.37e-90,CAFs MSC iCAF like s2,CCL19,subset,2.19387646,CAFs MSC iCAF-like s2,Fibro
+0,2.07700611,0.842,0.11,0,CAFs MSC iCAF like s2,DCN,subset,2.07700611,CAFs MSC iCAF-like s2,Fibro
+0,2.043808476,0.545,0.053,0,CAFs MSC iCAF like s2,PTGDS,subset,2.043808476,CAFs MSC iCAF-like s2,Fibro
+0,1.835980824,0.655,0.106,0,CAFs MSC iCAF like s2,CXCL12,subset,1.835980824,CAFs MSC iCAF-like s2,Fibro
+0,1.773631337,0.797,0.096,0,CAFs MSC iCAF like s2,LUM,subset,1.773631337,CAFs MSC iCAF-like s2,Fibro
+0,1.707174891,0.878,0.436,0,CAFs MSC iCAF like s2,TIMP1,subset,1.707174891,CAFs MSC iCAF-like s2,Fibro
+0,1.670469448,0.771,0.14,0,CAFs MSC iCAF like s2,COL6A2,subset,1.670469448,CAFs MSC iCAF-like s2,Fibro
+0,1.636922987,0.742,0.131,0,CAFs MSC iCAF like s2,C1S,subset,1.636922987,CAFs MSC iCAF-like s2,Fibro
+0,1.616428326,0.782,0.118,0,CAFs MSC iCAF like s2,COL3A1,subset,1.616428326,CAFs MSC iCAF-like s2,Fibro
+0,2.464234995,0.945,0.119,0,CAFs myCAF like s4,COL3A1,subset,2.464234995,CAFs myCAF like s4,Fibro
+0,2.446438952,0.949,0.151,0,CAFs myCAF like s4,COL1A1,subset,2.446438952,CAFs myCAF like s4,Fibro
+0,2.320601092,0.949,0.139,0,CAFs myCAF like s4,COL1A2,subset,2.320601092,CAFs myCAF like s4,Fibro
+0,2.260703533,0.87,0.141,0,CAFs myCAF like s4,COL6A2,subset,2.260703533,CAFs myCAF like s4,Fibro
+0,2.21008037,0.929,0.436,0,CAFs myCAF like s4,TIMP1,subset,2.21008037,CAFs myCAF like s4,Fibro
+0,2.179940371,0.772,0.085,0,CAFs myCAF like s4,POSTN,subset,2.179940371,CAFs myCAF like s4,Fibro
+0,2.127695688,0.904,0.097,0,CAFs myCAF like s4,LUM,subset,2.127695688,CAFs myCAF like s4,Fibro
+3.57e-150,2.102831207,0.535,0.185,1.0599999999999998e-145,CAFs myCAF like s4,APOD,subset,2.102831207,CAFs myCAF like s4,Fibro
+0,2.066663914,0.777,0.137,0,CAFs myCAF like s4,BGN,subset,2.066663914,CAFs myCAF like s4,Fibro
+0,2.03403917,0.811,0.128,0,CAFs myCAF like s4,COL6A1,subset,2.03403917,CAFs myCAF like s4,Fibro
+0,3.910788127,0.996,0.136,0,CAFs myCAF like s5,COL1A1,subset,3.910788127,CAFs myCAF like s5,Fibro
+0,3.625987701,0.995,0.124,0,CAFs myCAF like s5,COL1A2,subset,3.625987701,CAFs myCAF like s5,Fibro
+0,3.545584455,0.993,0.104,0,CAFs myCAF like s5,COL3A1,subset,3.545584455,CAFs myCAF like s5,Fibro
+0,3.246786736,0.943,0.056,0,CAFs myCAF like s5,SFRP2,subset,3.246786736,CAFs myCAF like s5,Fibro
+0,3.2184352,0.993,0.081,0,CAFs myCAF like s5,LUM,subset,3.2184352,CAFs myCAF like s5,Fibro
+0,3.178245855,0.934,0.069,0,CAFs myCAF like s5,POSTN,subset,3.178245855,CAFs myCAF like s5,Fibro
+0,3.049285651,0.917,0.083,0,CAFs myCAF like s5,CTHRC1,subset,3.049285651,CAFs myCAF like s5,Fibro
+0,3.035504281,0.657,0.037,0,CAFs myCAF like s5,MMP11,subset,3.035504281,CAFs myCAF like s5,Fibro
+0,2.964995417,0.959,0.165,0,CAFs myCAF like s5,FN1,subset,2.964995417,CAFs myCAF like s5,Fibro
+0,2.827808153,0.989,0.222,0,CAFs myCAF like s5,SPARC,subset,2.827808153,CAFs myCAF like s5,Fibro
+0,2.811140774,0.915,0.072,0,CAFs Transitioning s3,SFRP2,subset,2.811140774,CAFs Transitioning s3,Fibro
+0,2.737382022,0.995,0.097,0,CAFs Transitioning s3,LUM,subset,2.737382022,CAFs Transitioning s3,Fibro
+0,2.694468931,0.969,0.119,0,CAFs Transitioning s3,COL3A1,subset,2.694468931,CAFs Transitioning s3,Fibro
+0,2.66718158,0.987,0.139,0,CAFs Transitioning s3,COL1A2,subset,2.66718158,CAFs Transitioning s3,Fibro
+0,2.658942878,0.975,0.151,0,CAFs Transitioning s3,COL1A1,subset,2.658942878,CAFs Transitioning s3,Fibro
+0,2.629312257,0.986,0.112,0,CAFs Transitioning s3,DCN,subset,2.629312257,CAFs Transitioning s3,Fibro
+7.3e-199,2.451481419,0.448,0.048,2.1699999999999995e-194,CAFs Transitioning s3,MMP11,subset,2.451481419,CAFs Transitioning s3,Fibro
+0,2.357388616,0.803,0.098,0,CAFs Transitioning s3,CTHRC1,subset,2.357388616,CAFs Transitioning s3,Fibro
+2.8599999999999995e-237,2.301423668,0.459,0.028,8.51e-233,CAFs Transitioning s3,SFRP4,subset,2.301423668,CAFs Transitioning s3,Fibro
+0,2.289767941,0.848,0.088,0,CAFs Transitioning s3,CCDC80,subset,2.289767941,CAFs Transitioning s3,Fibro
